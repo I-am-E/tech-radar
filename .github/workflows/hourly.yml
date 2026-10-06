@@ -1,0 +1,22 @@
+name: Hourly Tech Radar
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  evolve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch fresh public RSS signals
+        run: python scripts/update.py
+      - name: Commit worthwhile changes
+        run: |
+          git config user.name "tech-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet; then echo "No useful change this hour."; exit 0; fi
+          git add posts.json CHANGELOG.md
+          git commit -m "chore: refresh tech radar"
+          git push
