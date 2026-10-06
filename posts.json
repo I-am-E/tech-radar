@@ -1,3 +1,138 @@
 [
-  {"title":"Tech Radar is live","category":"META","summary":"The first signal from an experiment in continuously evolving technology journalism.","date":"2026-10-06","source":"Tech Radar","url":"#about"}
+  {
+    "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
+    "summary": "Oil companies say federal law should block state climate deception claims.",
+    "date": "2026-10-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/"
+  },
+  {
+    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+    "date": "2026-10-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
+  },
+  {
+    "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+    "summary": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+    "date": "2026-10-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/"
+  },
+  {
+    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+    "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+    "date": "2026-10-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
+  },
+  {
+    "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+    "summary": "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress.",
+    "date": "2026-10-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/"
+  },
+  {
+    "title": "Texas city demands $2M for public records on Flock usage",
+    "summary": "Prices of public records tracking cops' use of Flock go up as backlash swells.",
+    "date": "2026-10-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/"
+  },
+  {
+    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+    "summary": "The tool can free up over 12GB of storage.",
+    "date": "2026-10-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/"
+  },
+  {
+    "title": "Controlling the brain with light earns a physiology Nobel",
+    "summary": "The entire field of optogenetics traces back to light-seeking algae.",
+    "date": "2026-10-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/"
+  },
+  {
+    "title": "The Download: 10 climate tech companies to watch",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list o",
+    "date": "2026-10-06",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/"
+  },
+  {
+    "title": "2026 Climate Tech Companies to Watch",
+    "summary": "Fresh technology signal.",
+    "date": "2026-10-06",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/"
+  },
+  {
+    "title": "Here’s how our climate team picked 10 promising companies to watch",
+    "summary": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.&#160",
+    "date": "2026-10-06",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/"
+  },
+  {
+    "title": "WeLion New Energy and its semi-solid-state batteries",
+    "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs t",
+    "date": "2026-10-06",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/"
+  },
+  {
+    "title": "Form Energy and its iron batteries",
+    "summary": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affor",
+    "date": "2026-10-06",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/"
+  },
+  {
+    "title": "X-energy and its helium-cooled nuclear reactors",
+    "summary": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar pane",
+    "date": "2026-10-06",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/"
+  },
+  {
+    "title": "Energy Dome and its carbon dioxide batteries",
+    "summary": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours.&#160; A",
+    "date": "2026-10-06",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/"
+  },
+  {
+    "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
+    "summary": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same plant, it would unlo",
+    "date": "2026-10-06",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/"
+  },
+  {
+    "title": "Tech Radar is live",
+    "category": "META",
+    "summary": "The first signal from an experiment in continuously evolving technology journalism.",
+    "date": "2026-10-06",
+    "source": "Tech Radar",
+    "url": "#about"
+  }
 ]
