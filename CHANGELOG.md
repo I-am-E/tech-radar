@@ -9,3 +9,7 @@
 - 2026-10-06T21:41:25.949874+00:00 — Added 8 fresh signals from public RSS feeds.
 
 - 2026-10-06T21:41:26.008548+00:00 — Optimisation pass: retained 25 posts; checks passed: viewport, css, html-escaping, responsive.
+
+- 2026-10-07T01:37:57.281104+00:00 — Added 5 fresh signals from public RSS feeds.
+
+- 2026-10-07T01:37:57.338122+00:00 — Optimisation pass: retained 30 posts; checks passed: viewport, css, html-escaping, responsive.
