@@ -1,5 +1,53 @@
 [
   {
+    "title": "AI coding agents generate more code, but not more software",
+    "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+    "date": "2026-10-09",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+  },
+  {
+    "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+    "summary": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
+    "date": "2026-10-09",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/"
+  },
+  {
+    "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+    "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
+    "date": "2026-10-09",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/"
+  },
+  {
+    "title": "AI disqualification yields new Nikon Small World in Motion winner",
+    "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+    "date": "2026-10-09",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/"
+  },
+  {
+    "title": "Your artwork could be featured in the next Debian release",
+    "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky.",
+    "date": "2026-10-09",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/"
+  },
+  {
+    "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
+    "summary": "Nationwide 800 MHz spectrum to help Starlink provide mobile coverage indoors.",
+    "date": "2026-10-09",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/"
+  },
+  {
     "title": "Microsoft barred from sponsoring foreign workers for US residency",
     "summary": "The US says Microsoft abused immigration rules; the company disputes the claim.",
     "date": "2026-10-09",
@@ -430,53 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/"
-  },
-  {
-    "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
-    "summary": "Oil companies say federal law should block state climate deception claims.",
-    "date": "2026-10-06",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/"
-  },
-  {
-    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-    "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
-    "date": "2026-10-06",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
-  },
-  {
-    "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
-    "summary": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
-    "date": "2026-10-06",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/"
-  },
-  {
-    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-    "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
-    "date": "2026-10-06",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
-  },
-  {
-    "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
-    "summary": "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress.",
-    "date": "2026-10-06",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/"
-  },
-  {
-    "title": "Texas city demands $2M for public records on Flock usage",
-    "summary": "Prices of public records tracking cops' use of Flock go up as backlash swells.",
-    "date": "2026-10-06",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/"
   }
 ]
