@@ -1,5 +1,45 @@
 [
   {
+    "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+    "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
+    "date": "2026-10-09",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/"
+  },
+  {
+    "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
+    "summary": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
+    "date": "2026-10-09",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/"
+  },
+  {
+    "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+    "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
+    "date": "2026-10-09",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/"
+  },
+  {
+    "title": "Feds get ready to rewrite car headlight rules",
+    "summary": "Reducing glare and allowing modern light technologies will be two goals.",
+    "date": "2026-10-09",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/"
+  },
+  {
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t",
+    "date": "2026-10-09",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+  },
+  {
     "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
     "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
     "date": "2026-10-08",
@@ -438,37 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/"
-  },
-  {
-    "title": "X-energy and its helium-cooled nuclear reactors",
-    "summary": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar pane",
-    "date": "2026-10-06",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/"
-  },
-  {
-    "title": "Energy Dome and its carbon dioxide batteries",
-    "summary": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours.&#160; A",
-    "date": "2026-10-06",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/"
-  },
-  {
-    "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
-    "summary": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same plant, it would unlo",
-    "date": "2026-10-06",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/"
-  },
-  {
-    "title": "Tech Radar is live",
-    "category": "META",
-    "summary": "The first signal from an experiment in continuously evolving technology journalism.",
-    "date": "2026-10-06",
-    "source": "Tech Radar",
-    "url": "#about"
   }
 ]
