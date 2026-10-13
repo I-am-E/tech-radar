@@ -1,5 +1,29 @@
 [
   {
+    "title": "High-speed video reveals how honey bee stingers pump venom",
+    "summary": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
+    "date": "2026-10-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/"
+  },
+  {
+    "title": "The Download: open model trade-offs and geothermal power’s promise",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a ",
+    "date": "2026-10-13",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/"
+  },
+  {
+    "title": "Open models have real benefits. Do they outweigh the risks?",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report argu",
+    "date": "2026-10-13",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
+  },
+  {
     "title": "AI labs are buying data from dead startups to train their models",
     "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’",
     "date": "2026-10-13",
@@ -454,29 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/"
-  },
-  {
-    "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
-    "summary": "TP-Link can't sell latest routers in US, still needs exemption from FCC ban.",
-    "date": "2026-10-07",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/"
-  },
-  {
-    "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
-    "summary": "Altering molecular handedness has implications for the origins of life.",
-    "date": "2026-10-07",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/"
-  },
-  {
-    "title": "Pediatricians renew call to ban raw milk as anti-science rhetoric reigns",
-    "summary": "In renewed policy, pediatricians review the benefits of heating milk to kill germs.",
-    "date": "2026-10-07",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/10/pediatricians-renew-call-to-ban-raw-milk-as-anti-science-rhetoric-reigns/"
   }
 ]
