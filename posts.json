@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI labs are buying data from dead startups to train their models",
+    "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’",
+    "date": "2026-10-13",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
+  },
+  {
     "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
     "summary": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
     "date": "2026-10-13",
@@ -470,13 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/health/2026/10/pediatricians-renew-call-to-ban-raw-milk-as-anti-science-rhetoric-reigns/"
-  },
-  {
-    "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-    "summary": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
-    "date": "2026-10-07",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/"
   }
 ]
