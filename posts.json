@@ -1,5 +1,69 @@
 [
   {
+    "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+    "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"",
+    "date": "2026-10-14",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/"
+  },
+  {
+    "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
+    "summary": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
+    "date": "2026-10-14",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/"
+  },
+  {
+    "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
+    "summary": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.",
+    "date": "2026-10-14",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/"
+  },
+  {
+    "title": "Software development and rules stability: Prototype racing in 2030",
+    "summary": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
+    "date": "2026-10-14",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/"
+  },
+  {
+    "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
+    "summary": "\"Have you ever seen a world born?\"",
+    "date": "2026-10-14",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/"
+  },
+  {
+    "title": "Researchers use AI to design proteins that cut up other proteins",
+    "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+    "date": "2026-10-14",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/"
+  },
+  {
+    "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+    "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+    "date": "2026-10-14",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/"
+  },
+  {
+    "title": "Legendary FPS level designer Richard \"Levelord\" Gray dies at 68",
+    "summary": "Tributes pour in for the man behind iconic Duke Nukem 3D levels and much more.",
+    "date": "2026-10-14",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/"
+  },
+  {
     "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
     "summary": "Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network.",
     "date": "2026-10-14",
@@ -414,69 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/"
-  },
-  {
-    "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-    "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and",
-    "date": "2026-10-09",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/"
-  },
-  {
-    "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-    "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
-    "date": "2026-10-09",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/"
-  },
-  {
-    "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
-    "summary": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
-    "date": "2026-10-09",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/"
-  },
-  {
-    "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
-    "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
-    "date": "2026-10-09",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/"
-  },
-  {
-    "title": "Feds get ready to rewrite car headlight rules",
-    "summary": "Reducing glare and allowing modern light technologies will be two goals.",
-    "date": "2026-10-09",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/"
-  },
-  {
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t",
-    "date": "2026-10-09",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
-  },
-  {
-    "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
-    "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
-    "date": "2026-10-08",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/"
-  },
-  {
-    "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
-    "summary": "Free SSL/TLS certificate lifetimes reduce to 64 days in February.",
-    "date": "2026-10-08",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/"
   }
 ]
