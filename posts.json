@@ -1,5 +1,13 @@
 [
   {
+    "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
+    "summary": "Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network.",
+    "date": "2026-10-14",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/"
+  },
+  {
     "title": "Anthropic warns small AI models could self-replicate through IoT devices",
     "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
     "date": "2026-10-14",
@@ -470,13 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/"
-  },
-  {
-    "title": "Driver wins $76 after ALPR led to bogus traffic stop, drug searches",
-    "summary": "Mass surveillance gets stupider.",
-    "date": "2026-10-08",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/"
   }
 ]
