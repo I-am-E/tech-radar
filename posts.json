@@ -1,5 +1,13 @@
 [
   {
+    "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+    "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+    "date": "2026-10-14",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/"
+  },
+  {
     "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
     "summary": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
     "date": "2026-10-13",
@@ -470,13 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/"
-  },
-  {
-    "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-    "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
-    "date": "2026-10-08",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
   }
 ]
