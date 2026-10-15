@@ -1,5 +1,37 @@
 [
   {
+    "title": "Rocket Lab announces another delay for its medium-lift Neutron rocket",
+    "summary": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
+    "date": "2026-10-15",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/"
+  },
+  {
+    "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+    "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
+    "date": "2026-10-15",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+  },
+  {
+    "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+    "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
+    "date": "2026-10-15",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
+  },
+  {
+    "title": "Rewilding could help vulnerable islands keep pace with rising seas",
+    "summary": "Seabirds, native plants, and healthy reefs can help atolls build as seas rise.",
+    "date": "2026-10-15",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/"
+  },
+  {
     "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that ",
     "date": "2026-10-15",
@@ -446,37 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
-  },
-  {
-    "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
-    "summary": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
-    "date": "2026-10-09",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/"
-  },
-  {
-    "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
-    "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
-    "date": "2026-10-09",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/"
-  },
-  {
-    "title": "AI disqualification yields new Nikon Small World in Motion winner",
-    "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
-    "date": "2026-10-09",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/"
-  },
-  {
-    "title": "Your artwork could be featured in the next Debian release",
-    "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky.",
-    "date": "2026-10-09",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/"
   }
 ]
