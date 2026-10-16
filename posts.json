@@ -1,5 +1,37 @@
 [
   {
+    "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+    "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+    "date": "2026-10-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
+  },
+  {
+    "title": "Polymarket saw $600 million in election trades after the elections were over",
+    "summary": "Millions kept changing hands long after the election outcomes were effectively settled.",
+    "date": "2026-10-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/"
+  },
+  {
+    "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+    "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
+    "date": "2026-10-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/"
+  },
+  {
+    "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+    "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
+    "date": "2026-10-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/"
+  },
+  {
     "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
     "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
     "date": "2026-10-16",
@@ -446,37 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
-  },
-  {
-    "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
-    "summary": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
-    "date": "2026-10-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/"
-  },
-  {
-    "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-    "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
-    "date": "2026-10-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/"
-  },
-  {
-    "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
-    "summary": "You can get a universe in your pocket if you have an iPhone 11 or later.",
-    "date": "2026-10-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/"
-  },
-  {
-    "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
-    "summary": "Without a cause of death, it's unclear if Russia's precautions were the right ones.",
-    "date": "2026-10-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/"
   }
 ]
