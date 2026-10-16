@@ -1,5 +1,77 @@
 [
   {
+    "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+    "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
+    "date": "2026-10-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/"
+  },
+  {
+    "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
+    "summary": "The pioneering reusable upper stage for Stoke Space's Nova rocket ships out for testing.",
+    "date": "2026-10-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/"
+  },
+  {
+    "title": "Blue Origin is going all in on the New Glenn rocket",
+    "summary": "The infrastructure is designed to support multiple flights per week by the end of the decade.",
+    "date": "2026-10-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/"
+  },
+  {
+    "title": "Googlebook review: Android on a laptop is still Android",
+    "summary": "Android laptops are here, but Google has a lot of work ahead to make them good.",
+    "date": "2026-10-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/"
+  },
+  {
+    "title": "The Download: failed social media bans, and extending pets’ lives",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Lur",
+    "date": "2026-10-16",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/"
+  },
+  {
+    "title": "This implant can restore sight for patients with macular degeneration",
+    "summary": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting FDA clearance in the ",
+    "date": "2026-10-16",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/"
+  },
+  {
+    "title": "Love is infrastructure",
+    "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on",
+    "date": "2026-10-16",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/"
+  },
+  {
+    "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+    "summary": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby ",
+    "date": "2026-10-16",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/"
+  },
+  {
+    "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+    "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grou",
+    "date": "2026-10-16",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/"
+  },
+  {
     "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
     "summary": "KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie.",
     "date": "2026-10-16",
@@ -406,77 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/"
-  },
-  {
-    "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-    "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
-    "date": "2026-10-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/"
-  },
-  {
-    "title": "Russia was not ready for the data center war it started with Ukraine",
-    "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
-    "date": "2026-10-12",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
-  },
-  {
-    "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
-    "summary": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
-    "date": "2026-10-12",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/"
-  },
-  {
-    "title": "F1 in Singapore: There's a new fastest car now",
-    "summary": "Also, F1’s final sprint saw our first real wet racing of the year.",
-    "date": "2026-10-12",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/"
-  },
-  {
-    "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-    "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
-    "date": "2026-10-12",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/"
-  },
-  {
-    "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
-    "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
-    "date": "2026-10-12",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/"
-  },
-  {
-    "title": "The Download: moon city problems and drone traffic controllers",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to buil",
-    "date": "2026-10-12",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
-  },
-  {
-    "title": "Mars may be a hellhole, but the moon is not far behind",
-    "summary": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface between America and C",
-    "date": "2026-10-12",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/"
-  },
-  {
-    "title": "The ecologist revealing the invisible networks that revive rainforests",
-    "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH",
-    "date": "2026-10-12",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
   }
 ]
