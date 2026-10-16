@@ -1,5 +1,45 @@
 [
   {
+    "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+    "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+    "date": "2026-10-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
+  },
+  {
+    "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+    "summary": "There are still significant hurdles ahead, both technical and legislative.",
+    "date": "2026-10-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/"
+  },
+  {
+    "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+    "summary": "The bug is fixed, but privacy concerns remain.",
+    "date": "2026-10-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/"
+  },
+  {
+    "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+    "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+    "date": "2026-10-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/"
+  },
+  {
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic virus",
+    "date": "2026-10-16",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+  },
+  {
     "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
     "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
     "date": "2026-10-16",
@@ -438,45 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/"
-  },
-  {
-    "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-    "summary": "Developers will get 50 percent discounted API rates through November.",
-    "date": "2026-10-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
-  },
-  {
-    "title": "High-speed video reveals how honey bee stingers pump venom",
-    "summary": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
-    "date": "2026-10-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/"
-  },
-  {
-    "title": "The Download: open model trade-offs and geothermal power’s promise",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a ",
-    "date": "2026-10-13",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/"
-  },
-  {
-    "title": "Open models have real benefits. Do they outweigh the risks?",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report argu",
-    "date": "2026-10-13",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
-  },
-  {
-    "title": "AI labs are buying data from dead startups to train their models",
-    "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’",
-    "date": "2026-10-13",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
   }
 ]
