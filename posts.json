@@ -1,5 +1,21 @@
 [
   {
+    "title": "Science says your boss should talk less in meetings",
+    "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+    "date": "2026-10-17",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/"
+  },
+  {
+    "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+    "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
+    "date": "2026-10-17",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/"
+  },
+  {
     "title": "OpenAI models hacked a crypto wallet and breached more websites",
     "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
     "date": "2026-10-17",
@@ -462,21 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/"
-  },
-  {
-    "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
-    "summary": "The higher prices are said to be unrelated to the Skydance merger.",
-    "date": "2026-10-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/"
-  },
-  {
-    "title": "The Paris Auto Show is full of interesting cars Americans can’t have",
-    "summary": "Small EVs and efficient people carriers update familiar names for the modern age.",
-    "date": "2026-10-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/"
   }
 ]
