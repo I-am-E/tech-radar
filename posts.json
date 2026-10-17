@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+    "date": "2026-10-17",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+  },
+  {
     "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
     "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
     "date": "2026-10-16",
@@ -470,13 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/"
-  },
-  {
-    "title": "Google wants to host your personal vibe-coded apps in the Play Store",
-    "summary": "Google plans to help turn those personal AI-generated apps into wide releases.",
-    "date": "2026-10-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/"
   }
 ]
