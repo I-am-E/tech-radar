@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic gives outside AI watchdog “employee-like” access",
+    "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+    "date": "2026-10-18",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
+  },
+  {
     "title": "Science says your boss should talk less in meetings",
     "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
     "date": "2026-10-17",
@@ -470,13 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/"
-  },
-  {
-    "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-    "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
-    "date": "2026-10-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/"
   }
 ]
