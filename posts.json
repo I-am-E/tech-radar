@@ -1,5 +1,61 @@
 [
   {
+    "title": "Huge DMV data breach impacted current and former Florida residents",
+    "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
+    "date": "2026-10-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/"
+  },
+  {
+    "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+    "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+    "date": "2026-10-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/"
+  },
+  {
+    "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
+    "summary": "All the evidence points to the debris being part of a Chinese Zhuque-2E rocket.",
+    "date": "2026-10-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/"
+  },
+  {
+    "title": "Review: Lanterns is a truly unique twist on the superhero genre",
+    "summary": "Gritty HBO series is a beacon for what's possible when one is allowed to get creative with the tropes.",
+    "date": "2026-10-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/"
+  },
+  {
+    "title": "DIY VR: How to build your own headset, and why you probably won't want to",
+    "summary": "A primer on the joys and pains of building your own head-mounted display.",
+    "date": "2026-10-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/"
+  },
+  {
+    "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
+    "summary": "Tests showed Sceye’s high-flying platform can deliver connectivity in disasters.",
+    "date": "2026-10-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/"
+  },
+  {
+    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple ",
+    "date": "2026-10-19",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/"
+  },
+  {
     "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
     "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightni",
     "date": "2026-10-19",
@@ -422,61 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/"
-  },
-  {
-    "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
-    "summary": "Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network.",
-    "date": "2026-10-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/"
-  },
-  {
-    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-    "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-    "date": "2026-10-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
-  },
-  {
-    "title": "The Internet’s undersea backbone is slipping into the danger zone",
-    "summary": "Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure.",
-    "date": "2026-10-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/"
-  },
-  {
-    "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-    "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
-    "date": "2026-10-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
-  },
-  {
-    "title": "The Download: faking blood and the future of batteries",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carry",
-    "date": "2026-10-14",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/"
-  },
-  {
-    "title": "The US military’s race to make fake blood",
-    "summary": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency missi",
-    "date": "2026-10-14",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/"
-  },
-  {
-    "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
-    "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
-    "date": "2026-10-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/"
   }
 ]
