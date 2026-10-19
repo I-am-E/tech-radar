@@ -1,5 +1,77 @@
 [
   {
+    "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+    "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
+    "date": "2026-10-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/"
+  },
+  {
+    "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+    "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+    "date": "2026-10-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
+  },
+  {
+    "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
+    "summary": "One way to make batteries cleaner is to make fewer of them.",
+    "date": "2026-10-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/"
+  },
+  {
+    "title": "PSA: Patch your Plex media server before someone hacks it",
+    "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+    "date": "2026-10-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/"
+  },
+  {
+    "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+    "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
+    "date": "2026-10-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/"
+  },
+  {
+    "title": "ReactOS reaches major milestone with NTFS install support",
+    "summary": "ReactOS gains NTFS install support with new driver.",
+    "date": "2026-10-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/"
+  },
+  {
+    "title": "AI game clones are making indie developers afraid to show their work",
+    "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+    "date": "2026-10-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/"
+  },
+  {
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websit",
+    "date": "2026-10-19",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
+  },
+  {
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, spar",
+    "date": "2026-10-19",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
+  },
+  {
     "title": "Huge DMV data breach impacted current and former Florida residents",
     "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
     "date": "2026-10-19",
@@ -406,77 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/"
-  },
-  {
-    "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
-    "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
-    "date": "2026-10-15",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/"
-  },
-  {
-    "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
-    "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"",
-    "date": "2026-10-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/"
-  },
-  {
-    "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
-    "summary": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
-    "date": "2026-10-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/"
-  },
-  {
-    "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
-    "summary": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.",
-    "date": "2026-10-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/"
-  },
-  {
-    "title": "Software development and rules stability: Prototype racing in 2030",
-    "summary": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
-    "date": "2026-10-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/"
-  },
-  {
-    "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
-    "summary": "\"Have you ever seen a world born?\"",
-    "date": "2026-10-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/"
-  },
-  {
-    "title": "Researchers use AI to design proteins that cut up other proteins",
-    "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
-    "date": "2026-10-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/"
-  },
-  {
-    "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-    "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-    "date": "2026-10-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/"
-  },
-  {
-    "title": "Legendary FPS level designer Richard \"Levelord\" Gray dies at 68",
-    "summary": "Tributes pour in for the man behind iconic Duke Nukem 3D levels and much more.",
-    "date": "2026-10-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/"
   }
 ]
