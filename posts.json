@@ -1,5 +1,21 @@
 [
   {
+    "title": "Polestar tries to quantify what it’s like to drive a performance car",
+    "summary": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
+    "date": "2026-10-20",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/"
+  },
+  {
+    "title": "The new economics of enterprise AI",
+    "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends ",
+    "date": "2026-10-20",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
+  },
+  {
     "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
     "summary": "A single query is all that's required to find thousands of conversations listed by title.",
     "date": "2026-10-20",
@@ -462,21 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/"
-  },
-  {
-    "title": "Trump cancels Pentagon plans to livestream firing squad execution",
-    "summary": "8 in 10 Americans opposed the Pentagon's plans, a Thursday poll showed.",
-    "date": "2026-10-15",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution/"
-  },
-  {
-    "title": "Rocket Lab announces another delay for its medium-lift Neutron rocket",
-    "summary": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
-    "date": "2026-10-15",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/"
   }
 ]
