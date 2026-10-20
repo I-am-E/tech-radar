@@ -1,5 +1,13 @@
 [
   {
+    "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+    "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+    "date": "2026-10-20",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/"
+  },
+  {
     "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
     "summary": "Congenital measles can be fatal, and survivors require monitoring for years.",
     "date": "2026-10-20",
@@ -470,13 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/"
-  },
-  {
-    "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-    "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
-    "date": "2026-10-15",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/"
   }
 ]
