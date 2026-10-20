@@ -1,5 +1,13 @@
 [
   {
+    "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+    "summary": "Congenital measles can be fatal, and survivors require monitoring for years.",
+    "date": "2026-10-20",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/"
+  },
+  {
     "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
     "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
     "date": "2026-10-19",
@@ -470,13 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/"
-  },
-  {
-    "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-    "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
-    "date": "2026-10-15",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/"
   }
 ]
