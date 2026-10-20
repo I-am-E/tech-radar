@@ -1,5 +1,61 @@
 [
   {
+    "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+    "summary": "A single query is all that's required to find thousands of conversations listed by title.",
+    "date": "2026-10-20",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+  },
+  {
+    "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
+    "summary": "Slate's first showroom sells the promise. Mass production will determine the rest.",
+    "date": "2026-10-20",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/"
+  },
+  {
+    "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I ",
+    "date": "2026-10-20",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/"
+  },
+  {
+    "title": "AI adoption by industry shows what other sectors can learn",
+    "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As",
+    "date": "2026-10-20",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
+  },
+  {
+    "title": "How to study a swiftly melting climate disaster",
+    "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#16",
+    "date": "2026-10-20",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/"
+  },
+  {
+    "title": "A visit to Samsung’s massive new semiconductor hub",
+    "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing compl",
+    "date": "2026-10-20",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
+  },
+  {
+    "title": "These startups hope “blended” food will cut our appetite for red meat",
+    "summary": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow",
+    "date": "2026-10-20",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/"
+  },
+  {
     "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
     "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
     "date": "2026-10-20",
@@ -422,61 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/"
-  },
-  {
-    "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-    "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
-    "date": "2026-10-15",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
-  },
-  {
-    "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-    "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
-    "date": "2026-10-15",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
-  },
-  {
-    "title": "Rewilding could help vulnerable islands keep pace with rising seas",
-    "summary": "Seabirds, native plants, and healthy reefs can help atolls build as seas rise.",
-    "date": "2026-10-15",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/"
-  },
-  {
-    "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that ",
-    "date": "2026-10-15",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/"
-  },
-  {
-    "title": "How much more can nuclear power plants give?",
-    "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellatio",
-    "date": "2026-10-15",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
-  },
-  {
-    "title": "Six wild ideas for perpetuating your mind",
-    "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain w",
-    "date": "2026-10-15",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/"
-  },
-  {
-    "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
-    "summary": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which ",
-    "date": "2026-10-15",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/"
   }
 ]
