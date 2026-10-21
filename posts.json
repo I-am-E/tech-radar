@@ -1,5 +1,69 @@
 [
   {
+    "title": "The Download: introducing the Impossible issue",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a sl",
+    "date": "2026-10-21",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/"
+  },
+  {
+    "title": "We can do impossible things",
+    "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to m",
+    "date": "2026-10-21",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/"
+  },
+  {
+    "title": "Nuclear-powered spaceships",
+    "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an",
+    "date": "2026-10-21",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/"
+  },
+  {
+    "title": "Exercise in a pill",
+    "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks—wit",
+    "date": "2026-10-21",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/"
+  },
+  {
+    "title": "Interspecies communication",
+    "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species",
+    "date": "2026-10-21",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/"
+  },
+  {
+    "title": "Cleaning up PFAS",
+    "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS have been linked to ",
+    "date": "2026-10-21",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/"
+  },
+  {
+    "title": "Solid-state batteries",
+    "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane in the last decade could ",
+    "date": "2026-10-21",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/"
+  },
+  {
+    "title": "Eliminating traffic deaths",
+    "summary": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways but on rural and local",
+    "date": "2026-10-21",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/"
+  },
+  {
     "title": "PHP warns it plans to release 2 emergency patches imminently",
     "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
     "date": "2026-10-21",
@@ -414,69 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/"
-  },
-  {
-    "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
-    "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
-    "date": "2026-10-17",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/"
-  },
-  {
-    "title": "OpenAI models hacked a crypto wallet and breached more websites",
-    "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-    "date": "2026-10-17",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
-  },
-  {
-    "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-    "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
-    "date": "2026-10-16",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
-  },
-  {
-    "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-    "summary": "There are still significant hurdles ahead, both technical and legislative.",
-    "date": "2026-10-16",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/"
-  },
-  {
-    "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-    "summary": "The bug is fixed, but privacy concerns remain.",
-    "date": "2026-10-16",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/"
-  },
-  {
-    "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
-    "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
-    "date": "2026-10-16",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/"
-  },
-  {
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic virus",
-    "date": "2026-10-16",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
-  },
-  {
-    "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-    "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
-    "date": "2026-10-16",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
   }
 ]
