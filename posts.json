@@ -1,5 +1,69 @@
 [
   {
+    "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+    "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
+    "date": "2026-10-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/"
+  },
+  {
+    "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+    "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+    "date": "2026-10-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/"
+  },
+  {
+    "title": "Tesla profits drop 43% in Q3",
+    "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
+    "date": "2026-10-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/"
+  },
+  {
+    "title": "The new human-crafted Apple Music brand matters in an AI world",
+    "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+    "date": "2026-10-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/"
+  },
+  {
+    "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
+    "summary": "Next Mass Effect project canceled as parent company lays off 400.",
+    "date": "2026-10-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/"
+  },
+  {
+    "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+    "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+    "date": "2026-10-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
+  },
+  {
+    "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
+    "summary": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.",
+    "date": "2026-10-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/"
+  },
+  {
+    "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+    "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+    "date": "2026-10-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/"
+  },
+  {
     "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
     "summary": "\"We have had significant constructive engagement with the FAA.\"",
     "date": "2026-10-21",
@@ -414,69 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
-  },
-  {
-    "title": "Huge DMV data breach impacted current and former Florida residents",
-    "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
-    "date": "2026-10-19",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/"
-  },
-  {
-    "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-    "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
-    "date": "2026-10-19",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/"
-  },
-  {
-    "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
-    "summary": "All the evidence points to the debris being part of a Chinese Zhuque-2E rocket.",
-    "date": "2026-10-19",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/"
-  },
-  {
-    "title": "Review: Lanterns is a truly unique twist on the superhero genre",
-    "summary": "Gritty HBO series is a beacon for what's possible when one is allowed to get creative with the tropes.",
-    "date": "2026-10-19",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/"
-  },
-  {
-    "title": "DIY VR: How to build your own headset, and why you probably won't want to",
-    "summary": "A primer on the joys and pains of building your own head-mounted display.",
-    "date": "2026-10-19",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/"
-  },
-  {
-    "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
-    "summary": "Tests showed Sceye’s high-flying platform can deliver connectivity in disasters.",
-    "date": "2026-10-19",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/"
-  },
-  {
-    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple ",
-    "date": "2026-10-19",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/"
-  },
-  {
-    "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
-    "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightni",
-    "date": "2026-10-19",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/"
   }
 ]
