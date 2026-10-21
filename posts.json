@@ -1,5 +1,37 @@
 [
   {
+    "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+    "summary": "\"We have had significant constructive engagement with the FAA.\"",
+    "date": "2026-10-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/"
+  },
+  {
+    "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+    "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
+    "date": "2026-10-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/"
+  },
+  {
+    "title": "Review: Carrie is a triumphant remix with one major flaw",
+    "summary": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
+    "date": "2026-10-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/"
+  },
+  {
+    "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+    "summary": "Flipping through the highlights in and around Pinball Expo 2026.",
+    "date": "2026-10-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/"
+  },
+  {
     "title": "The Download: introducing the Impossible issue",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a sl",
     "date": "2026-10-21",
@@ -446,37 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/"
-  },
-  {
-    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-    "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Al",
-    "date": "2026-10-19",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
-  },
-  {
-    "title": "How far can we push computing?",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an Americ",
-    "date": "2026-10-19",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/"
-  },
-  {
-    "title": "Anthropic gives outside AI watchdog “employee-like” access",
-    "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
-    "date": "2026-10-18",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
-  },
-  {
-    "title": "Science says your boss should talk less in meetings",
-    "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
-    "date": "2026-10-17",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/"
   }
 ]
