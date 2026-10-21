@@ -1,5 +1,13 @@
 [
   {
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "date": "2026-10-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+  },
+  {
     "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
     "summary": "\"I do think there's a lot of merit to combining the companies.\"",
     "date": "2026-10-21",
@@ -470,13 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
-  },
-  {
-    "title": "Polymarket saw $600 million in election trades after the elections were over",
-    "summary": "Millions kept changing hands long after the election outcomes were effectively settled.",
-    "date": "2026-10-16",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/"
   }
 ]
