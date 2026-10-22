@@ -1,5 +1,13 @@
 [
   {
+    "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+    "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
+    "date": "2026-10-22",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/"
+  },
+  {
     "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
     "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
     "date": "2026-10-21",
@@ -470,13 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
-  },
-  {
-    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-    "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, spar",
-    "date": "2026-10-19",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
   }
 ]
