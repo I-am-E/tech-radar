@@ -1,5 +1,77 @@
 [
   {
+    "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+    "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
+    "date": "2026-10-22",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
+  },
+  {
+    "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
+    "summary": "We can't have nice things, but at least we can get trailers for them.",
+    "date": "2026-10-22",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/"
+  },
+  {
+    "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+    "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
+    "date": "2026-10-22",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/"
+  },
+  {
+    "title": "\"Disillusioned\" MAHA leader quits as Trump admin's food agenda spoils: Report",
+    "summary": "The departure comes amid turmoil in Kennedy's Make America Healthy Again movement.",
+    "date": "2026-10-22",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/"
+  },
+  {
+    "title": "Electric or gas? BMW goes both ways with new 2027 X5 and iX5.",
+    "summary": "460 kW charging and 450 miles of range are among the reasons the EV is the one to get.",
+    "date": "2026-10-22",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/"
+  },
+  {
+    "title": "Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales",
+    "summary": "Searches for Samsung foldables just happened to skyrocket following iPhone Duo unveiling.",
+    "date": "2026-10-22",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/"
+  },
+  {
+    "title": "US official: Russia's stalker satellite sure looks like an orbital weapon",
+    "summary": "The Russian official who called commercial satellites \"legitimate targets\" now says concerns are \"unfounded.\"",
+    "date": "2026-10-22",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/10/russia-claims-its-stalker-satellite-is-purely-peaceful-in-character/"
+  },
+  {
+    "title": "Designing an AI serving harness built to last",
+    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capabili",
+    "date": "2026-10-22",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+  },
+  {
+    "title": "The Foundations of Scalable AI",
+    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes ",
+    "date": "2026-10-22",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
+  },
+  {
     "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
     "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.",
     "date": "2026-10-22",
@@ -406,77 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/"
-  },
-  {
-    "title": "A good TA: priceless",
-    "summary": "These are images of quizzes I took in 3.091, Introduction to Solid-State Chemistry, in the fall of 1980. One is my very first exam at MIT, and getting 49 out of 100 was a soul-crushing experience. I can still picture the TA, Leszek Pawlowic",
-    "date": "2026-10-20",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/"
-  },
-  {
-    "title": "Nebraska native explores galaxies far, far away",
-    "summary": "Growing up on a small farm in Nebraska, Megan Donahue ’85 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters. Donahue discovered her passi",
-    "date": "2026-10-20",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/"
-  },
-  {
-    "title": "Polestar tries to quantify what it’s like to drive a performance car",
-    "summary": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
-    "date": "2026-10-20",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/"
-  },
-  {
-    "title": "The new economics of enterprise AI",
-    "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends ",
-    "date": "2026-10-20",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
-  },
-  {
-    "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-    "summary": "A single query is all that's required to find thousands of conversations listed by title.",
-    "date": "2026-10-20",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
-  },
-  {
-    "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
-    "summary": "Slate's first showroom sells the promise. Mass production will determine the rest.",
-    "date": "2026-10-20",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/"
-  },
-  {
-    "title": "The Download: the claim shaking up AI and the internet’s agent problem",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I ",
-    "date": "2026-10-20",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/"
-  },
-  {
-    "title": "AI adoption by industry shows what other sectors can learn",
-    "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As",
-    "date": "2026-10-20",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
-  },
-  {
-    "title": "How to study a swiftly melting climate disaster",
-    "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#16",
-    "date": "2026-10-20",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/"
   }
 ]
