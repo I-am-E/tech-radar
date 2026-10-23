@@ -1,5 +1,45 @@
 [
   {
+    "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+    "summary": "Ukraine has changed drones and war-fighting tech to reduce reliance on Starlink.",
+    "date": "2026-10-23",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/"
+  },
+  {
+    "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+    "summary": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
+    "date": "2026-10-23",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/"
+  },
+  {
+    "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+    "summary": "\"We believe Canada should be able to reach orbit on its own terms.\"",
+    "date": "2026-10-23",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/"
+  },
+  {
+    "title": "The Download: testing six tech promises and biotech’s blind spots",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats",
+    "date": "2026-10-23",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
+  },
+  {
+    "title": "In the biotech world, you can’t see everything",
+    "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be gi",
+    "date": "2026-10-23",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
+  },
+  {
     "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
     "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
     "date": "2026-10-23",
@@ -438,45 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/"
-  },
-  {
-    "title": "TP-Link tries to appease Trump admin with pledge to assemble routers in US",
-    "summary": "TP-Link can't sell latest routers in US despite rivals getting FCC approvals.",
-    "date": "2026-10-20",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/"
-  },
-  {
-    "title": "Does anyone actually want to win the medium-lift race in the United States?",
-    "summary": "Ars Technica is here to help with a guide to the medium-lift space race.",
-    "date": "2026-10-20",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/"
-  },
-  {
-    "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-    "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
-    "date": "2026-10-20",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/"
-  },
-  {
-    "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
-    "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the ai",
-    "date": "2026-10-20",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/"
-  },
-  {
-    "title": "Here’s the tea",
-    "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated ",
-    "date": "2026-10-20",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/"
   }
 ]
