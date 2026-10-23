@@ -1,5 +1,37 @@
 [
   {
+    "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+    "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
+    "date": "2026-10-23",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/"
+  },
+  {
+    "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+    "summary": "Markers released top-line results today after previously reporting the trial succeeded.",
+    "date": "2026-10-23",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/"
+  },
+  {
+    "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+    "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
+    "date": "2026-10-23",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/"
+  },
+  {
+    "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+    "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
+    "date": "2026-10-23",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/"
+  },
+  {
     "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
     "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
     "date": "2026-10-22",
@@ -446,37 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/"
-  },
-  {
-    "title": "Melt it, spin it, use it again",
-    "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.&#160; The thermoplastic yarn mimics the proper",
-    "date": "2026-10-20",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/"
-  },
-  {
-    "title": "A reason to eat carbs",
-    "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small ",
-    "date": "2026-10-20",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/"
-  },
-  {
-    "title": "Robotic therapy for stroke patients",
-    "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intellig",
-    "date": "2026-10-20",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/"
-  },
-  {
-    "title": "Taking a swing at a pickleball startup",
-    "summary": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances. He did not. “I spent my early years trying not to get recruited into gangs, getting shot at, watching my friends ",
-    "date": "2026-10-20",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/"
   }
 ]
