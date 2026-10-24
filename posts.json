@@ -1,5 +1,13 @@
 [
   {
+    "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+    "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+    "date": "2026-10-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/"
+  },
+  {
     "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
     "summary": "Pentagon memo: Insider trading gives US enemies key intel on military operations.",
     "date": "2026-10-23",
@@ -470,13 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/"
-  },
-  {
-    "title": "Solid-state batteries",
-    "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane in the last decade could ",
-    "date": "2026-10-21",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/"
   }
 ]
