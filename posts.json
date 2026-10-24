@@ -1,5 +1,21 @@
 [
   {
+    "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+    "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+    "date": "2026-10-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
+  },
+  {
+    "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+    "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+    "date": "2026-10-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/"
+  },
+  {
     "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
     "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
     "date": "2026-10-24",
@@ -462,21 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/"
-  },
-  {
-    "title": "Interspecies communication",
-    "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species",
-    "date": "2026-10-21",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/"
-  },
-  {
-    "title": "Cleaning up PFAS",
-    "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS have been linked to ",
-    "date": "2026-10-21",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/"
   }
 ]
