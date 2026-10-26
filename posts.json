@@ -1,5 +1,45 @@
 [
   {
+    "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
+    "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+    "date": "2026-10-26",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/"
+  },
+  {
+    "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+    "summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
+    "date": "2026-10-26",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/"
+  },
+  {
+    "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+    "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
+    "date": "2026-10-26",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/"
+  },
+  {
+    "title": "Some iPhone Duo screens are already failing",
+    "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+    "date": "2026-10-26",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/"
+  },
+  {
+    "title": "Will the real Anthropic please stand up",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (10",
+    "date": "2026-10-26",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+  },
+  {
     "title": "F1 in Texas: The American race that fans love to attend",
     "summary": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
     "date": "2026-10-26",
@@ -438,45 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
-  },
-  {
-    "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
-    "summary": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.",
-    "date": "2026-10-21",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/"
-  },
-  {
-    "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
-    "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
-    "date": "2026-10-21",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/"
-  },
-  {
-    "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
-    "summary": "\"We have had significant constructive engagement with the FAA.\"",
-    "date": "2026-10-21",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/"
-  },
-  {
-    "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-    "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
-    "date": "2026-10-21",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/"
-  },
-  {
-    "title": "Review: Carrie is a triumphant remix with one major flaw",
-    "summary": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
-    "date": "2026-10-21",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/"
   }
 ]
