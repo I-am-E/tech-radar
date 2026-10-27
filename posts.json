@@ -1,5 +1,53 @@
 [
   {
+    "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
+    "summary": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/"
+  },
+  {
+    "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+    "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/"
+  },
+  {
+    "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
+    "summary": "Huge price hikes force loyal users to reconsider their favorite apps.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/"
+  },
+  {
+    "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+    "summary": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/"
+  },
+  {
+    "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
+    "summary": "University of Sheffield researchers figured out how to re-create the 1,600-year-old glass recipe.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/"
+  },
+  {
+    "title": "US officials want Section 702 renewed before damaging court ruling goes public",
+    "summary": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/"
+  },
+  {
     "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic ha",
     "date": "2026-10-27",
@@ -430,53 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/"
-  },
-  {
-    "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
-    "summary": "General Motors' plans will require quite a lot of customers' trust.",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/"
-  },
-  {
-    "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-    "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
-  },
-  {
-    "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
-    "summary": "Best case is now an overshoot to 1.8º C, accompanied by massive carbon removal.",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/"
-  },
-  {
-    "title": "The Download: computing’s next leap and permafrost’s climate threat",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynma",
-    "date": "2026-10-22",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/"
-  },
-  {
-    "title": "Making the case for context-aware AI",
-    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that",
-    "date": "2026-10-22",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
-  },
-  {
-    "title": "Three things you should know about permafrost",
-    "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.&#160;&#160; The great news f",
-    "date": "2026-10-22",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/"
   }
 ]
