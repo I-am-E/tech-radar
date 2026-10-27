@@ -1,5 +1,69 @@
 [
   {
+    "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+    "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
+  },
+  {
+    "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+    "summary": "International travel used to be the main risk of measles cases in the US—not anymore.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/"
+  },
+  {
+    "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+    "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/"
+  },
+  {
+    "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+    "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
+  },
+  {
+    "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+    "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
+  },
+  {
+    "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+    "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+  },
+  {
+    "title": "Google begins certifying Registered App Stores for Android, but not in the US",
+    "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/"
+  },
+  {
+    "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+    "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"
+  },
+  {
     "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
     "summary": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
     "date": "2026-10-27",
@@ -414,69 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/"
-  },
-  {
-    "title": "US official: Russia's stalker satellite sure looks like an orbital weapon",
-    "summary": "The Russian official who called commercial satellites \"legitimate targets\" now says concerns are \"unfounded.\"",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/10/russia-claims-its-stalker-satellite-is-purely-peaceful-in-character/"
-  },
-  {
-    "title": "Designing an AI serving harness built to last",
-    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capabili",
-    "date": "2026-10-22",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
-  },
-  {
-    "title": "The Foundations of Scalable AI",
-    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes ",
-    "date": "2026-10-22",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
-  },
-  {
-    "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
-    "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/"
-  },
-  {
-    "title": "US-backed vaccine trial on babies canceled after international outcry",
-    "summary": "The decried trial was canceled last week before police seized vaccine doses.",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/"
-  },
-  {
-    "title": "This emulator reimagines Nintendo’s Virtual Boy with a full color display",
-    "summary": "Tile-based color palettes go way beyond the four shades of red on original hardware.",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/"
-  },
-  {
-    "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-    "summary": "Hackers were already probing the bug before defenders were told it existed.",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/"
-  },
-  {
-    "title": "Sauron recruits his future Ringwraiths in Rings of Power S3 trailer",
-    "summary": "\"I will take my place as the conqueror, a sorcerer, a king.\"",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/"
   }
 ]
