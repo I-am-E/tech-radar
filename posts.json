@@ -1,5 +1,45 @@
 [
   {
+    "title": "Microsoft offers to buy out a quarter of its workforce",
+    "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/"
+  },
+  {
+    "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+    "summary": "Case study gives a whole new meaning to \"bedroom eyes.\"",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/"
+  },
+  {
+    "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+    "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/"
+  },
+  {
+    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+    "summary": "Included is the ability to limit which applications Siri can directly access.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/"
+  },
+  {
+    "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+    "summary": "Apple claims this is the most significant update ever for the iPad mini line.",
+    "date": "2026-10-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/"
+  },
+  {
     "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
     "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
     "date": "2026-10-26",
@@ -438,45 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/"
-  },
-  {
-    "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-    "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
-    "date": "2026-10-21",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/"
-  },
-  {
-    "title": "Tesla profits drop 43% in Q3",
-    "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
-    "date": "2026-10-21",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/"
-  },
-  {
-    "title": "The new human-crafted Apple Music brand matters in an AI world",
-    "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
-    "date": "2026-10-21",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/"
-  },
-  {
-    "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
-    "summary": "Next Mass Effect project canceled as parent company lays off 400.",
-    "date": "2026-10-21",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/"
-  },
-  {
-    "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-    "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
-    "date": "2026-10-21",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
   }
 ]
