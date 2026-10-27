@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic ha",
+    "date": "2026-10-27",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/"
+  },
+  {
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matt",
+    "date": "2026-10-27",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/"
+  },
+  {
+    "title": "How solid-state transformers could help power the AI boom",
+    "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a ",
+    "date": "2026-10-27",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/"
+  },
+  {
     "title": "Microsoft offers to buy out a quarter of its workforce",
     "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
     "date": "2026-10-27",
@@ -454,29 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/"
-  },
-  {
-    "title": "AI’s hidden storage bill: What inference leaves behind",
-    "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a mode",
-    "date": "2026-10-22",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
-  },
-  {
-    "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
-    "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/"
-  },
-  {
-    "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
-    "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
-    "date": "2026-10-21",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/"
   }
 ]
