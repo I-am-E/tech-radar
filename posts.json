@@ -1,5 +1,29 @@
 [
   {
+    "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+    "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
+    "date": "2026-10-28",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/"
+  },
+  {
+    "title": "The Download: dead startups fueling AI and interspecies communication",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began",
+    "date": "2026-10-28",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
+  },
+  {
+    "title": "Pairing industrial AI autonomy and human control",
+    "summary": "Fresh technology signal.",
+    "date": "2026-10-28",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/"
+  },
+  {
     "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
     "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
     "date": "2026-10-27",
@@ -454,29 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/"
-  },
-  {
-    "title": "\"Disillusioned\" MAHA leader quits as Trump admin's food agenda spoils: Report",
-    "summary": "The departure comes amid turmoil in Kennedy's Make America Healthy Again movement.",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/"
-  },
-  {
-    "title": "Electric or gas? BMW goes both ways with new 2027 X5 and iX5.",
-    "summary": "460 kW charging and 450 miles of range are among the reasons the EV is the one to get.",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/"
-  },
-  {
-    "title": "Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales",
-    "summary": "Searches for Samsung foldables just happened to skyrocket following iPhone Duo unveiling.",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/"
   }
 ]
