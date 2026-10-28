@@ -1,5 +1,45 @@
 [
   {
+    "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+    "summary": "US agency has sued 10 states for trying to stop gambling on prediction markets.",
+    "date": "2026-10-28",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/"
+  },
+  {
+    "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+    "summary": "It has been nearly a year since any space tourism flights occurred.",
+    "date": "2026-10-28",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/"
+  },
+  {
+    "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+    "summary": "It's not as different from the previous model as you might have expected.",
+    "date": "2026-10-28",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/"
+  },
+  {
+    "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+    "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+    "date": "2026-10-28",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+  },
+  {
+    "title": "Creating AI value with enterprise context",
+    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, adv",
+    "date": "2026-10-28",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
+  },
+  {
     "title": "Amazon turns its most capable smart speaker into a smart camera, too",
     "summary": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
     "date": "2026-10-28",
@@ -438,45 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/"
-  },
-  {
-    "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-    "summary": "Ukraine has changed drones and war-fighting tech to reduce reliance on Starlink.",
-    "date": "2026-10-23",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/"
-  },
-  {
-    "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
-    "summary": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
-    "date": "2026-10-23",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/"
-  },
-  {
-    "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
-    "summary": "\"We believe Canada should be able to reach orbit on its own terms.\"",
-    "date": "2026-10-23",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/"
-  },
-  {
-    "title": "The Download: testing six tech promises and biotech’s blind spots",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats",
-    "date": "2026-10-23",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
-  },
-  {
-    "title": "In the biotech world, you can’t see everything",
-    "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be gi",
-    "date": "2026-10-23",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
   }
 ]
