@@ -1,5 +1,61 @@
 [
   {
+    "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+    "summary": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
+    "date": "2026-10-28",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/"
+  },
+  {
+    "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
+    "summary": "With more than 200 kWh, this luxury three-row can go 460 miles on a charge.",
+    "date": "2026-10-28",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/"
+  },
+  {
+    "title": "Google AI gets cagey when asked who won the 2020 elections",
+    "summary": "But the AI responses get more forthright when asked outside the US.",
+    "date": "2026-10-28",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
+  },
+  {
+    "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+    "summary": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras.",
+    "date": "2026-10-28",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/"
+  },
+  {
+    "title": "Apple announces touchscreen MacBook Pro with OLED display",
+    "summary": "The OLED display is the main draw, but the price is a lot to reckon with.",
+    "date": "2026-10-28",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
+  },
+  {
+    "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
+    "summary": "\"We have to be ready for whatever's coming next. If we lose in here, there won't be a home to go back to.\"",
+    "date": "2026-10-28",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/"
+  },
+  {
+    "title": "A hidden ocean change near Antarctica could have global consequences",
+    "summary": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
+    "date": "2026-10-28",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/"
+  },
+  {
     "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
     "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
     "date": "2026-10-28",
@@ -422,61 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
-  },
-  {
-    "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
-    "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
-    "date": "2026-10-23",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/"
-  },
-  {
-    "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-    "summary": "Markers released top-line results today after previously reporting the trial succeeded.",
-    "date": "2026-10-23",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/"
-  },
-  {
-    "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
-    "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
-    "date": "2026-10-23",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/"
-  },
-  {
-    "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-    "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
-    "date": "2026-10-23",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/"
-  },
-  {
-    "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-    "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
-  },
-  {
-    "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
-    "summary": "We can't have nice things, but at least we can get trailers for them.",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/"
-  },
-  {
-    "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-    "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
-    "date": "2026-10-22",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/"
   }
 ]
