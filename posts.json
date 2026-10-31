@@ -1,5 +1,21 @@
 [
   {
+    "title": "Seabirds racing home over the ocean can get jet-lagged",
+    "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
+    "date": "2026-10-31",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/"
+  },
+  {
+    "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+    "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+    "date": "2026-10-31",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/"
+  },
+  {
     "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
     "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
     "date": "2026-10-31",
@@ -462,21 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/"
-  },
-  {
-    "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-    "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
-    "date": "2026-10-27",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/"
-  },
-  {
-    "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-    "summary": "Huge price hikes force loyal users to reconsider their favorite apps.",
-    "date": "2026-10-27",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/"
   }
 ]
