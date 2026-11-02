@@ -1,5 +1,45 @@
 [
   {
+    "title": "The world has a new plan to save nature, but it still needs the money",
+    "summary": "A new action plan aims to rescue 2030 nature targets as financing remains inadequate.",
+    "date": "2026-11-02",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/"
+  },
+  {
+    "title": "This $48 e-paper display can be whatever you want it to be",
+    "summary": "This DIY e-paper display works in two official ecosystems or on your own server.",
+    "date": "2026-11-02",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/"
+  },
+  {
+    "title": "Stop counting tokens, start counting what ships",
+    "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prom",
+    "date": "2026-11-02",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
+  },
+  {
+    "title": "The Download: the agentic web arrives and the drive for safer roads",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-",
+    "date": "2026-11-02",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/"
+  },
+  {
+    "title": "The agentic web is here",
+    "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic We",
+    "date": "2026-11-02",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"
+  },
+  {
     "title": "Seabirds racing home over the ocean can get jet-lagged",
     "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
     "date": "2026-10-31",
@@ -438,45 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
-  },
-  {
-    "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-    "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
-    "date": "2026-10-27",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
-  },
-  {
-    "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-    "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
-    "date": "2026-10-27",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
-  },
-  {
-    "title": "Google begins certifying Registered App Stores for Android, but not in the US",
-    "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
-    "date": "2026-10-27",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/"
-  },
-  {
-    "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-    "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
-    "date": "2026-10-27",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"
-  },
-  {
-    "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
-    "summary": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
-    "date": "2026-10-27",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/"
   }
 ]
