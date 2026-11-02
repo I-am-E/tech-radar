@@ -1,5 +1,69 @@
 [
   {
+    "title": "Third person dies of bird flu since virus started jumping to livestock",
+    "summary": "The threat is still considered to be low, but the virus continues to spread.",
+    "date": "2026-11-02",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/"
+  },
+  {
+    "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
+    "summary": "\"The flow of time is always cruel.\"",
+    "date": "2026-11-02",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/"
+  },
+  {
+    "title": "Most of our measures of a key cognitive process don't agree",
+    "summary": "A big study with very little beyond negative results still gets published.",
+    "date": "2026-11-02",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/"
+  },
+  {
+    "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+    "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+    "date": "2026-11-02",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/"
+  },
+  {
+    "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+    "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+    "date": "2026-11-02",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/"
+  },
+  {
+    "title": "China publicly discloses plan for a lunar landing within three years",
+    "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II.",
+    "date": "2026-11-02",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/"
+  },
+  {
+    "title": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
+    "summary": "There was plenty of drama on and off the track for Formula 1 this weekend.",
+    "date": "2026-11-02",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/"
+  },
+  {
+    "title": "Raising the quality of insights in agentic analytics",
+    "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions",
+    "date": "2026-11-02",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
+  },
+  {
     "title": "The world has a new plan to save nature, but it still needs the money",
     "summary": "A new action plan aims to rescue 2030 nature targets as financing remains inadequate.",
     "date": "2026-11-02",
@@ -414,69 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/"
-  },
-  {
-    "title": "A hidden ocean change near Antarctica could have global consequences",
-    "summary": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
-    "date": "2026-10-28",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/"
-  },
-  {
-    "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
-    "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
-    "date": "2026-10-28",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/"
-  },
-  {
-    "title": "The Download: dead startups fueling AI and interspecies communication",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began",
-    "date": "2026-10-28",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
-  },
-  {
-    "title": "Pairing industrial AI autonomy and human control",
-    "summary": "Fresh technology signal.",
-    "date": "2026-10-28",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/"
-  },
-  {
-    "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-    "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
-    "date": "2026-10-27",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
-  },
-  {
-    "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
-    "summary": "International travel used to be the main risk of measles cases in the US—not anymore.",
-    "date": "2026-10-27",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/"
-  },
-  {
-    "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
-    "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
-    "date": "2026-10-27",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/"
-  },
-  {
-    "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-    "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
-    "date": "2026-10-27",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
   }
 ]
