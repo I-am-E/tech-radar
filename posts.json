@@ -1,5 +1,69 @@
 [
   {
+    "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+    "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+    "date": "2026-11-03",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/"
+  },
+  {
+    "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+    "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
+    "date": "2026-11-03",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/"
+  },
+  {
+    "title": "Buttons are back and storage is king when it comes to car interiors",
+    "summary": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
+    "date": "2026-11-03",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/"
+  },
+  {
+    "title": "Google will let schools skip AI tools, but they have to give up search, too",
+    "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
+    "date": "2026-11-03",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
+  },
+  {
+    "title": "Another child dies of measles as CDC reportedly holds up health alert",
+    "summary": "NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
+    "date": "2026-11-03",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/"
+  },
+  {
+    "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+    "summary": "Google has cut ties with the company behind the botnet campaign.",
+    "date": "2026-11-03",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/"
+  },
+  {
+    "title": "This space company is betting its future on a propellant available everywhere",
+    "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
+    "date": "2026-11-03",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/"
+  },
+  {
+    "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+    "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+    "date": "2026-11-03",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/"
+  },
+  {
     "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
     "summary": "After pioneering the passenger screen, Mercedes has designs on the windshield.",
     "date": "2026-11-03",
@@ -414,69 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/"
-  },
-  {
-    "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
-    "summary": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
-    "date": "2026-10-29",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/"
-  },
-  {
-    "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
-    "summary": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea.",
-    "date": "2026-10-29",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/"
-  },
-  {
-    "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
-    "summary": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\"",
-    "date": "2026-10-29",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/"
-  },
-  {
-    "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
-    "summary": "US agency has sued 10 states for trying to stop gambling on prediction markets.",
-    "date": "2026-10-28",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/"
-  },
-  {
-    "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
-    "summary": "It has been nearly a year since any space tourism flights occurred.",
-    "date": "2026-10-28",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/"
-  },
-  {
-    "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
-    "summary": "It's not as different from the previous model as you might have expected.",
-    "date": "2026-10-28",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/"
-  },
-  {
-    "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-    "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
-    "date": "2026-10-28",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
-  },
-  {
-    "title": "Creating AI value with enterprise context",
-    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, adv",
-    "date": "2026-10-28",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
   }
 ]
