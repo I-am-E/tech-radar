@@ -1,5 +1,29 @@
 [
   {
+    "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
+    "summary": "After pioneering the passenger screen, Mercedes has designs on the windshield.",
+    "date": "2026-11-03",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/"
+  },
+  {
+    "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse g",
+    "date": "2026-11-03",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
+  },
+  {
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “align",
+    "date": "2026-11-03",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+  },
+  {
     "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
     "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
     "date": "2026-11-03",
@@ -454,29 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
-  },
-  {
-    "title": "Amazon turns its most capable smart speaker into a smart camera, too",
-    "summary": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
-    "date": "2026-10-28",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/"
-  },
-  {
-    "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
-    "summary": "With more than 200 kWh, this luxury three-row can go 460 miles on a charge.",
-    "date": "2026-10-28",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/"
-  },
-  {
-    "title": "Google AI gets cagey when asked who won the 2020 elections",
-    "summary": "But the AI responses get more forthright when asked outside the US.",
-    "date": "2026-10-28",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
   }
 ]
