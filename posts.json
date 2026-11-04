@@ -1,5 +1,13 @@
 [
   {
+    "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+    "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+    "date": "2026-11-04",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/"
+  },
+  {
     "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
     "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
     "date": "2026-11-03",
@@ -470,13 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
-  },
-  {
-    "title": "Our climate models have a big, dangerous blind spot",
-    "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or o",
-    "date": "2026-10-29",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/"
   }
 ]
