@@ -1,5 +1,85 @@
 [
   {
+    "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+    "summary": "And what that could mean for physical Switch game costs.",
+    "date": "2026-11-05",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/"
+  },
+  {
+    "title": "Hackers exploited iOS and Android flaws to infect phones",
+    "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+    "date": "2026-11-05",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/"
+  },
+  {
+    "title": "Uranium cubes reveal why the German nuclear project failed",
+    "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+    "date": "2026-11-05",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/"
+  },
+  {
+    "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+    "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
+    "date": "2026-11-05",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/"
+  },
+  {
+    "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+    "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
+    "date": "2026-11-05",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/"
+  },
+  {
+    "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+    "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+    "date": "2026-11-05",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+  },
+  {
+    "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
+    "summary": "\"Data centers in space looking pretty appealing right now.\"",
+    "date": "2026-11-05",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/"
+  },
+  {
+    "title": "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
+    "summary": "Cruz and Trump seem to have no plans to fill FCC's empty Democratic seat.",
+    "date": "2026-11-05",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/"
+  },
+  {
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate se",
+    "date": "2026-11-05",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+  },
+  {
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for b",
+    "date": "2026-11-05",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
+  },
+  {
     "title": "Binance says hackers who stole billions in crypto spent months planning heist",
     "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
     "date": "2026-11-04",
@@ -398,85 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
-  },
-  {
-    "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
-    "summary": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
-    "date": "2026-10-30",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/"
-  },
-  {
-    "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
-    "summary": "Elizabeth Holmes has some people falling for her act all over again.",
-    "date": "2026-10-30",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/"
-  },
-  {
-    "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
-    "summary": "It's been a good week for ULA with a big NASA contract and Vulcan nearing return-to-flight.",
-    "date": "2026-10-30",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/"
-  },
-  {
-    "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs ",
-    "date": "2026-10-30",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
-  },
-  {
-    "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-    "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the",
-    "date": "2026-10-30",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/"
-  },
-  {
-    "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
-    "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
-    "date": "2026-10-29",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
-  },
-  {
-    "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-    "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
-    "date": "2026-10-29",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/"
-  },
-  {
-    "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-    "summary": "Inspector general rejected request from Democratic and Republican senators.",
-    "date": "2026-10-29",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/"
-  },
-  {
-    "title": "Trump declares robot imports a national security threat",
-    "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-    "date": "2026-10-29",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/"
-  },
-  {
-    "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
-    "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
-    "date": "2026-10-29",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/"
   }
 ]
