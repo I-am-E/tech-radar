@@ -1,5 +1,53 @@
 [
   {
+    "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+    "summary": "It has all the bells and whistles (and cameras).",
+    "date": "2026-11-05",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/"
+  },
+  {
+    "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+    "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+    "date": "2026-11-05",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
+  },
+  {
+    "title": "2026 iPad mini review: Maximizing the mini",
+    "summary": "It's more compelling than ever, but also more expensive.",
+    "date": "2026-11-05",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/"
+  },
+  {
+    "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+    "summary": "The spirit of AMG is alive via three axial flux electric motors.",
+    "date": "2026-11-05",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/"
+  },
+  {
+    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is ",
+    "date": "2026-11-05",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
+  },
+  {
+    "title": "A new bill could change how the US builds energy infrastructure",
+    "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affo",
+    "date": "2026-11-05",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/"
+  },
+  {
     "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
     "summary": "And what that could mean for physical Switch game costs.",
     "date": "2026-11-05",
@@ -430,53 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/"
-  },
-  {
-    "title": "Rare meteorite from Mars gives us a view into its ancient crust",
-    "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
-    "date": "2026-10-30",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/"
-  },
-  {
-    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-    "summary": "Low costs and offline security mean magnetic tape still has a job.",
-    "date": "2026-10-30",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
-  },
-  {
-    "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-    "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
-    "date": "2026-10-30",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/"
-  },
-  {
-    "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
-    "summary": "There's no evidence that Starship will launch traditional satellites, either.",
-    "date": "2026-10-30",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/"
-  },
-  {
-    "title": "GM to pay $220 million after selling customer Smart Driver data",
-    "summary": "Owners of GM cars found their driving data had been sold to insurance companies.",
-    "date": "2026-10-30",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/"
-  },
-  {
-    "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
-    "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
-    "date": "2026-10-30",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
   }
 ]
