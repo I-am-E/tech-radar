@@ -1,5 +1,29 @@
 [
   {
+    "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+    "summary": "\"This is going to be a game-changer.\"",
+    "date": "2026-11-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
+  },
+  {
+    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+    "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "date": "2026-11-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
+  },
+  {
+    "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+    "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+    "date": "2026-11-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/"
+  },
+  {
     "title": "Sony revives the original Walkman headphones, adds USB-C",
     "summary": "Orange ear cushions included.",
     "date": "2026-11-05",
@@ -454,29 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/"
-  },
-  {
-    "title": "The agentic web is here",
-    "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic We",
-    "date": "2026-11-02",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"
-  },
-  {
-    "title": "Seabirds racing home over the ocean can get jet-lagged",
-    "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
-    "date": "2026-10-31",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/"
-  },
-  {
-    "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-    "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
-    "date": "2026-10-31",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/"
   }
 ]
