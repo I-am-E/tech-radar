@@ -1,5 +1,77 @@
 [
   {
+    "title": "The folks behind John Wick are back with Karōshi trailer",
+    "summary": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
+    "date": "2026-11-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/"
+  },
+  {
+    "title": "You know the launch market is tough when satellite companies start building rockets",
+    "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
+    "date": "2026-11-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/"
+  },
+  {
+    "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+    "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+    "date": "2026-11-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/"
+  },
+  {
+    "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
+    "summary": "Next week, experts will determine if the US has lost its measles elimination status.",
+    "date": "2026-11-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/"
+  },
+  {
+    "title": "Could potential AI clones of GTA VI force a quicker official port?",
+    "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+    "date": "2026-11-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/"
+  },
+  {
+    "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
+    "summary": "It has the best laptop screen we've used, but there may be reasons to wait.",
+    "date": "2026-11-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+    "summary": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+    "date": "2026-11-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
+  },
+  {
+    "title": "No more Cybertrucks; Musk moves on from the angular metallic flop",
+    "summary": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.",
+    "date": "2026-11-06",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/"
+  },
+  {
+    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace ",
+    "date": "2026-11-06",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
+  },
+  {
     "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
     "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning servic",
     "date": "2026-11-06",
@@ -406,77 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/"
-  },
-  {
-    "title": "Most of our measures of a key cognitive process don't agree",
-    "summary": "A big study with very little beyond negative results still gets published.",
-    "date": "2026-11-02",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/"
-  },
-  {
-    "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-    "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
-    "date": "2026-11-02",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/"
-  },
-  {
-    "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-    "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
-    "date": "2026-11-02",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/"
-  },
-  {
-    "title": "China publicly discloses plan for a lunar landing within three years",
-    "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II.",
-    "date": "2026-11-02",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/"
-  },
-  {
-    "title": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
-    "summary": "There was plenty of drama on and off the track for Formula 1 this weekend.",
-    "date": "2026-11-02",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/"
-  },
-  {
-    "title": "Raising the quality of insights in agentic analytics",
-    "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions",
-    "date": "2026-11-02",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
-  },
-  {
-    "title": "The world has a new plan to save nature, but it still needs the money",
-    "summary": "A new action plan aims to rescue 2030 nature targets as financing remains inadequate.",
-    "date": "2026-11-02",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/"
-  },
-  {
-    "title": "This $48 e-paper display can be whatever you want it to be",
-    "summary": "This DIY e-paper display works in two official ecosystems or on your own server.",
-    "date": "2026-11-02",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/"
-  },
-  {
-    "title": "Stop counting tokens, start counting what ships",
-    "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prom",
-    "date": "2026-11-02",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
   }
 ]
