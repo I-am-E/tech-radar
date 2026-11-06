@@ -1,5 +1,13 @@
 [
   {
+    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning servic",
+    "date": "2026-11-06",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
+  },
+  {
     "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
     "summary": "\"This is going to be a game-changer.\"",
     "date": "2026-11-06",
@@ -470,13 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
-  },
-  {
-    "title": "The Download: the agentic web arrives and the drive for safer roads",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-",
-    "date": "2026-11-02",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/"
   }
 ]
