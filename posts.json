@@ -1,5 +1,29 @@
 [
   {
+    "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+    "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+    "date": "2026-11-07",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/"
+  },
+  {
+    "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+    "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+    "date": "2026-11-07",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/"
+  },
+  {
+    "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+    "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+    "date": "2026-11-07",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/"
+  },
+  {
     "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
     "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
     "date": "2026-11-07",
@@ -454,29 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/"
-  },
-  {
-    "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
-    "summary": "After pioneering the passenger screen, Mercedes has designs on the windshield.",
-    "date": "2026-11-03",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/"
-  },
-  {
-    "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse g",
-    "date": "2026-11-03",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
-  },
-  {
-    "title": "How “reverse game theory” could keep AI agents in check",
-    "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “align",
-    "date": "2026-11-03",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
   }
 ]
