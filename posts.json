@@ -1,5 +1,21 @@
 [
   {
+    "title": "The migration that transformed Africa's languages, genes, and cultures",
+    "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+    "date": "2026-11-07",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/"
+  },
+  {
+    "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+    "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+    "date": "2026-11-07",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"
+  },
+  {
     "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
     "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
     "date": "2026-11-07",
@@ -462,21 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/"
-  },
-  {
-    "title": "This space company is betting its future on a propellant available everywhere",
-    "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
-    "date": "2026-11-03",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/"
-  },
-  {
-    "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-    "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-    "date": "2026-11-03",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/"
   }
 ]
