@@ -1,5 +1,13 @@
 [
   {
+    "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+    "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+    "date": "2026-11-08",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
+  },
+  {
     "title": "The migration that transformed Africa's languages, genes, and cultures",
     "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
     "date": "2026-11-07",
@@ -470,13 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/"
-  },
-  {
-    "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
-    "summary": "Google has cut ties with the company behind the botnet campaign.",
-    "date": "2026-11-03",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/"
   }
 ]
