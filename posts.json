@@ -1,5 +1,77 @@
 [
   {
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+    "date": "2026-11-09",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+  },
+  {
+    "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+    "summary": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
+    "date": "2026-11-09",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/"
+  },
+  {
+    "title": "Nvidia CEO's affair becomes a national security problem",
+    "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+    "date": "2026-11-09",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/"
+  },
+  {
+    "title": "F1 in Brazil: You’ve got to keep your tires alive",
+    "summary": "A topsy-turvy grid and intermittent rain resulted in a very entertaining race.",
+    "date": "2026-11-09",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/"
+  },
+  {
+    "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+    "summary": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
+    "date": "2026-11-09",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/"
+  },
+  {
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play ",
+    "date": "2026-11-09",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
+  },
+  {
+    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel",
+    "date": "2026-11-09",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
+  },
+  {
+    "title": "Innovating with AI in the special chemicals industry",
+    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bri",
+    "date": "2026-11-09",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+  },
+  {
+    "title": "The climate case for AI has not been made",
+    "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is d",
+    "date": "2026-11-09",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
+  },
+  {
     "title": "Physicists listened to electrical noise to crack a superconductor mystery",
     "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
     "date": "2026-11-08",
@@ -406,77 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/"
-  },
-  {
-    "title": "What’s next for US energy policy after the midterm elections?",
-    "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and ",
-    "date": "2026-11-04",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/"
-  },
-  {
-    "title": "The Download: blended meat, restored sight, and the agentic web",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of",
-    "date": "2026-11-04",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/"
-  },
-  {
-    "title": "Securing the agentic enterprise with data lineage",
-    "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agen",
-    "date": "2026-11-04",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
-  },
-  {
-    "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
-    "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
-    "date": "2026-11-04",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/"
-  },
-  {
-    "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-    "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
-    "date": "2026-11-03",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/"
-  },
-  {
-    "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-    "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
-    "date": "2026-11-03",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/"
-  },
-  {
-    "title": "Buttons are back and storage is king when it comes to car interiors",
-    "summary": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
-    "date": "2026-11-03",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/"
-  },
-  {
-    "title": "Google will let schools skip AI tools, but they have to give up search, too",
-    "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
-    "date": "2026-11-03",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
-  },
-  {
-    "title": "Another child dies of measles as CDC reportedly holds up health alert",
-    "summary": "NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
-    "date": "2026-11-03",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/"
   }
 ]
