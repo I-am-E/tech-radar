@@ -1,5 +1,69 @@
 [
   {
+    "title": "The US military seems to be getting nervous about the launch supply crunch",
+    "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+    "date": "2026-11-10",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/"
+  },
+  {
+    "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+    "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+    "date": "2026-11-10",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
+  },
+  {
+    "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+    "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+    "date": "2026-11-10",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/"
+  },
+  {
+    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+    "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+    "date": "2026-11-10",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+  },
+  {
+    "title": "What happens to mathematics when AI becomes an oracle?",
+    "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
+    "date": "2026-11-10",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/"
+  },
+  {
+    "title": "Google Fi adds support for a second 5G network, won't say which one",
+    "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
+    "date": "2026-11-10",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/"
+  },
+  {
+    "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+    "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+    "date": "2026-11-10",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/"
+  },
+  {
+    "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+    "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+    "date": "2026-11-10",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/"
+  },
+  {
     "title": "High oil prices have led to a dip in global carbon emissions",
     "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
     "date": "2026-11-10",
@@ -414,69 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/"
-  },
-  {
-    "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
-    "summary": "BMW has updated its flagship sedan with the newest EV and infotainment tech.",
-    "date": "2026-11-05",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/"
-  },
-  {
-    "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
-    "summary": "Software optimizes a physical model of the telescope to reduce noise.",
-    "date": "2026-11-05",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/"
-  },
-  {
-    "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
-    "summary": "Kalshi can't avoid gambling law by claiming it doesn't offer gambling, state AG says.",
-    "date": "2026-11-05",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/"
-  },
-  {
-    "title": "MAHA lost bigly in the midterms—is it at death's door?",
-    "summary": "RFK Jr.'s Make America Healthy Again movement was in trouble before voting began.",
-    "date": "2026-11-05",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/"
-  },
-  {
-    "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
-    "summary": "Using a capture card and open source software to run PS5 video through a PC GPU.",
-    "date": "2026-11-05",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/"
-  },
-  {
-    "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
-    "summary": "It has all the bells and whistles (and cameras).",
-    "date": "2026-11-05",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/"
-  },
-  {
-    "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-    "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
-    "date": "2026-11-05",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
-  },
-  {
-    "title": "2026 iPad mini review: Maximizing the mini",
-    "summary": "It's more compelling than ever, but also more expensive.",
-    "date": "2026-11-05",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/"
   }
 ]
