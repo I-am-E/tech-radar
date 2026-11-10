@@ -1,5 +1,53 @@
 [
   {
+    "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+    "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+    "date": "2026-11-10",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/"
+  },
+  {
+    "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+    "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+    "date": "2026-11-10",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/"
+  },
+  {
+    "title": "A Sam Altman parody offers an amusing lesson in memory management",
+    "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+    "date": "2026-11-10",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/"
+  },
+  {
+    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+    "summary": "\"*sshole\" poses a serious threat to Internet security.",
+    "date": "2026-11-10",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
+  },
+  {
+    "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+    "summary": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
+    "date": "2026-11-10",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/"
+  },
+  {
+    "title": "The backlash about data centers might really just be about electricity",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known ",
+    "date": "2026-11-10",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+  },
+  {
     "title": "Claude Code is accidentally exposing secrets all over GitHub",
     "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
     "date": "2026-11-09",
@@ -430,53 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/"
-  },
-  {
-    "title": "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
-    "summary": "Cruz and Trump seem to have no plans to fill FCC's empty Democratic seat.",
-    "date": "2026-11-05",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/"
-  },
-  {
-    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate se",
-    "date": "2026-11-05",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
-  },
-  {
-    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-    "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for b",
-    "date": "2026-11-05",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
-  },
-  {
-    "title": "Binance says hackers who stole billions in crypto spent months planning heist",
-    "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
-    "date": "2026-11-04",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/"
-  },
-  {
-    "title": "What I learned driving the Slate electric truck prototype",
-    "summary": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV.",
-    "date": "2026-11-04",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/"
-  },
-  {
-    "title": "The DEA banned a drug some opioid users called a miracle",
-    "summary": "Researchers say the Schedule I ban could kill studies of a promising opioid treatment.",
-    "date": "2026-11-04",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/"
   }
 ]
