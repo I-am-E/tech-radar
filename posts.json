@@ -1,5 +1,77 @@
 [
   {
+    "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+    "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
+    "date": "2026-11-11",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/"
+  },
+  {
+    "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+    "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
+    "date": "2026-11-11",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/"
+  },
+  {
+    "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+    "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
+    "date": "2026-11-11",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/"
+  },
+  {
+    "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+    "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+    "date": "2026-11-11",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/"
+  },
+  {
+    "title": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
+    "summary": "Confidential sources “lifeblood” of free press, court rules in LinkedIn fight.",
+    "date": "2026-11-11",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/"
+  },
+  {
+    "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+    "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
+    "date": "2026-11-11",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/"
+  },
+  {
+    "title": "Apple is shuttering its 28-year-old online community forum",
+    "summary": "Apple has already made the forum read-only.",
+    "date": "2026-11-11",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/"
+  },
+  {
+    "title": "IBM to offer access to a dual-processor quantum system in 2027",
+    "summary": "The company plans on linking two 520-qubit chips before next year is over.",
+    "date": "2026-11-11",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/"
+  },
+  {
+    "title": "What to know about this year’s UN climate talks",
+    "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of ne",
+    "date": "2026-11-11",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
+  },
+  {
     "title": "Google DeepMind just mathematically verified key parts of Signal",
     "summary": "The four-week project hints that AI could make formal verification far more practical.",
     "date": "2026-11-11",
@@ -406,77 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/"
-  },
-  {
-    "title": "Could potential AI clones of GTA VI force a quicker official port?",
-    "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
-    "date": "2026-11-06",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/"
-  },
-  {
-    "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
-    "summary": "It has the best laptop screen we've used, but there may be reasons to wait.",
-    "date": "2026-11-06",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/"
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-    "summary": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
-    "date": "2026-11-06",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
-  },
-  {
-    "title": "No more Cybertrucks; Musk moves on from the angular metallic flop",
-    "summary": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.",
-    "date": "2026-11-06",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/"
-  },
-  {
-    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace ",
-    "date": "2026-11-06",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
-  },
-  {
-    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-    "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning servic",
-    "date": "2026-11-06",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
-  },
-  {
-    "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-    "summary": "\"This is going to be a game-changer.\"",
-    "date": "2026-11-06",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
-  },
-  {
-    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-    "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
-    "date": "2026-11-06",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
-  },
-  {
-    "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
-    "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
-    "date": "2026-11-06",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/"
   }
 ]
