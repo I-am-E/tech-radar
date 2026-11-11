@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google DeepMind just mathematically verified key parts of Signal",
+    "summary": "The four-week project hints that AI could make formal verification far more practical.",
+    "date": "2026-11-11",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
+  },
+  {
+    "title": "The Download: preserving minds and weighing open AI risks",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experien",
+    "date": "2026-11-11",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
+  },
+  {
     "title": "Seagate's new hybrid drive raises some old questions",
     "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
     "date": "2026-11-11",
@@ -462,21 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/"
-  },
-  {
-    "title": "Sony revives the original Walkman headphones, adds USB-C",
-    "summary": "Orange ear cushions included.",
-    "date": "2026-11-05",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/"
-  },
-  {
-    "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-    "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
-    "date": "2026-11-05",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/"
   }
 ]
