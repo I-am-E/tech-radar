@@ -1,5 +1,13 @@
 [
   {
+    "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
+    "summary": "Apple's M6 keeps the iMac current without shaking things up much.",
+    "date": "2026-11-12",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/"
+  },
+  {
     "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
     "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
     "date": "2026-11-12",
@@ -470,13 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/"
-  },
-  {
-    "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-    "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
-    "date": "2026-11-06",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/"
   }
 ]
