@@ -1,5 +1,13 @@
 [
   {
+    "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+    "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+    "date": "2026-11-12",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
+  },
+  {
     "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
     "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
     "date": "2026-11-11",
@@ -470,13 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/"
-  },
-  {
-    "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
-    "summary": "Next week, experts will determine if the US has lost its measles elimination status.",
-    "date": "2026-11-06",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/"
   }
 ]
