@@ -1,5 +1,21 @@
 [
   {
+    "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+    "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/"
+  },
+  {
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+  },
+  {
     "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
     "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
     "date": "2026-11-12",
@@ -462,21 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
-  },
-  {
-    "title": "The migration that transformed Africa's languages, genes, and cultures",
-    "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
-    "date": "2026-11-07",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/"
-  },
-  {
-    "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-    "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
-    "date": "2026-11-07",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"
   }
 ]
