@@ -1,5 +1,93 @@
 [
   {
+    "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+    "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+  },
+  {
+    "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+    "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
+  },
+  {
+    "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+    "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/"
+  },
+  {
+    "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
+    "summary": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/"
+  },
+  {
+    "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
+    "summary": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/"
+  },
+  {
+    "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
+    "summary": "Climate action has stalled for five years as fossil fuel development keeps growing.",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/"
+  },
+  {
+    "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
+    "summary": "\"You can simplify it as a big tank feeding engines.\"",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/"
+  },
+  {
+    "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
+    "summary": "Specialized’s second-fastest bike may be the smart buy.",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/"
+  },
+  {
+    "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron ",
+    "date": "2026-11-13",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
+  },
+  {
+    "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+    "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those device",
+    "date": "2026-11-13",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"
+  },
+  {
+    "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+    "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year roa",
+    "date": "2026-11-13",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/"
+  },
+  {
     "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
     "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
     "date": "2026-11-13",
@@ -390,93 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/"
-  },
-  {
-    "title": "The backlash about data centers might really just be about electricity",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known ",
-    "date": "2026-11-10",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
-  },
-  {
-    "title": "Claude Code is accidentally exposing secrets all over GitHub",
-    "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-    "date": "2026-11-09",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
-  },
-  {
-    "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
-    "summary": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
-    "date": "2026-11-09",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/"
-  },
-  {
-    "title": "Nvidia CEO's affair becomes a national security problem",
-    "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
-    "date": "2026-11-09",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/"
-  },
-  {
-    "title": "F1 in Brazil: You’ve got to keep your tires alive",
-    "summary": "A topsy-turvy grid and intermittent rain resulted in a very entertaining race.",
-    "date": "2026-11-09",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/"
-  },
-  {
-    "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
-    "summary": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
-    "date": "2026-11-09",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/"
-  },
-  {
-    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play ",
-    "date": "2026-11-09",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
-  },
-  {
-    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel",
-    "date": "2026-11-09",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
-  },
-  {
-    "title": "Innovating with AI in the special chemicals industry",
-    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bri",
-    "date": "2026-11-09",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
-  },
-  {
-    "title": "The climate case for AI has not been made",
-    "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is d",
-    "date": "2026-11-09",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
-  },
-  {
-    "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-    "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
-    "date": "2026-11-08",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
   }
 ]
