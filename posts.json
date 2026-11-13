@@ -1,5 +1,45 @@
 [
   {
+    "title": "FAA orders third nationwide ground stop in its history",
+    "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
+  },
+  {
+    "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+    "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
+  },
+  {
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+  },
+  {
+    "title": "In elephants, the resilience of communities has its limits",
+    "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/"
+  },
+  {
+    "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+    "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+    "date": "2026-11-13",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/"
+  },
+  {
     "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
     "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
     "date": "2026-11-13",
@@ -438,45 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/"
-  },
-  {
-    "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
-    "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/"
-  },
-  {
-    "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
-    "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/"
-  },
-  {
-    "title": "A Sam Altman parody offers an amusing lesson in memory management",
-    "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/"
-  },
-  {
-    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-    "summary": "\"*sshole\" poses a serious threat to Internet security.",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
-  },
-  {
-    "title": "Pentagon mulls placing fleet of military satellites around the Moon",
-    "summary": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/"
   }
 ]
