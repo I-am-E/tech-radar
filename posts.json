@@ -1,5 +1,13 @@
 [
   {
+    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state se",
+    "date": "2026-11-14",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
+  },
+  {
     "title": "James Webb telescope finds ice older than the star it orbits",
     "summary": "Radiation and collisions reshape the planetary building materials.",
     "date": "2026-11-14",
@@ -470,13 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/"
-  },
-  {
-    "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-    "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/"
   }
 ]
