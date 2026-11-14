@@ -1,5 +1,21 @@
 [
   {
+    "title": "James Webb telescope finds ice older than the star it orbits",
+    "summary": "Radiation and collisions reshape the planetary building materials.",
+    "date": "2026-11-14",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
+  },
+  {
+    "title": "Winemakers are learning that conservation can be good for business",
+    "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+    "date": "2026-11-14",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/"
+  },
+  {
     "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
     "summary": "One way or another, the company will get some more data on Saturday.",
     "date": "2026-11-14",
@@ -462,21 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/"
-  },
-  {
-    "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
-    "summary": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/"
-  },
-  {
-    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state se",
-    "date": "2026-11-10",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
   }
 ]
