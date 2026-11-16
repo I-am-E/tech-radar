@@ -1,5 +1,101 @@
 [
   {
+    "title": "Three small failures combined to take down Microsoft 365",
+    "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+    "date": "2026-11-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/"
+  },
+  {
+    "title": "Hyperscale data centers use 2% of US electricity",
+    "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
+    "date": "2026-11-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
+  },
+  {
+    "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+    "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+    "date": "2026-11-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/"
+  },
+  {
+    "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
+    "summary": "AT&#038;T demands Comcast give AT&#038;T profits it made from advertising cable as fiber.",
+    "date": "2026-11-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/"
+  },
+  {
+    "title": "Supreme Court keeps injunction against DEI grant defunding in place",
+    "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
+    "date": "2026-11-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/"
+  },
+  {
+    "title": "When will humans actually fly on Starship?",
+    "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
+    "date": "2026-11-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/"
+  },
+  {
+    "title": "Meet the new James Bond: Robert Pattinson",
+    "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
+    "date": "2026-11-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/"
+  },
+  {
+    "title": "US moves to cut China’s remote access to AI chips",
+    "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
+    "date": "2026-11-16",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+  },
+  {
+    "title": "The open-source movement wants Jensen Huang back",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, an",
+    "date": "2026-11-16",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
+  },
+  {
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring inte",
+    "date": "2026-11-16",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
+  },
+  {
+    "title": "The Download: testing tech promises and searching for cognitive immortality",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure pr",
+    "date": "2026-11-16",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/"
+  },
+  {
+    "title": "Building AI that can work across the enterprise",
+    "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots to",
+    "date": "2026-11-16",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
+  },
+  {
     "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
     "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
     "date": "2026-11-16",
@@ -382,101 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
-  },
-  {
-    "title": "Seagate's new hybrid drive raises some old questions",
-    "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
-    "date": "2026-11-11",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/"
-  },
-  {
-    "title": "The US military seems to be getting nervous about the launch supply crunch",
-    "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/"
-  },
-  {
-    "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-    "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
-  },
-  {
-    "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
-    "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/"
-  },
-  {
-    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-    "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
-  },
-  {
-    "title": "What happens to mathematics when AI becomes an oracle?",
-    "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/"
-  },
-  {
-    "title": "Google Fi adds support for a second 5G network, won't say which one",
-    "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/"
-  },
-  {
-    "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
-    "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/"
-  },
-  {
-    "title": "Free video-streaming service Tubi lets users share curated watchlists now",
-    "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/"
-  },
-  {
-    "title": "High oil prices have led to a dip in global carbon emissions",
-    "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/"
-  },
-  {
-    "title": "One space station company sues another for copying its work",
-    "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/"
-  },
-  {
-    "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-    "summary": "The new model is up to twice as successful at some tasks.",
-    "date": "2026-11-10",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
   }
 ]
