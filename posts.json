@@ -1,5 +1,29 @@
 [
   {
+    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+    "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+    "date": "2026-11-17",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/"
+  },
+  {
+    "title": "Artist brings old Space Shuttle tank back to life",
+    "summary": "\"It's definitely the largest art project I've ever worked on.\"",
+    "date": "2026-11-17",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/"
+  },
+  {
+    "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as N",
+    "date": "2026-11-17",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/"
+  },
+  {
     "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
     "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
     "date": "2026-11-17",
@@ -454,29 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/"
-  },
-  {
-    "title": "IBM to offer access to a dual-processor quantum system in 2027",
-    "summary": "The company plans on linking two 520-qubit chips before next year is over.",
-    "date": "2026-11-11",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/"
-  },
-  {
-    "title": "What to know about this year’s UN climate talks",
-    "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of ne",
-    "date": "2026-11-11",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
-  },
-  {
-    "title": "Google DeepMind just mathematically verified key parts of Signal",
-    "summary": "The four-week project hints that AI could make formal verification far more practical.",
-    "date": "2026-11-11",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
   }
 ]
