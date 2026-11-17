@@ -1,5 +1,13 @@
 [
   {
+    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+    "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+    "date": "2026-11-17",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
+  },
+  {
     "title": "Three small failures combined to take down Microsoft 365",
     "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
     "date": "2026-11-16",
@@ -470,13 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
-  },
-  {
-    "title": "The Download: preserving minds and weighing open AI risks",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experien",
-    "date": "2026-11-11",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
   }
 ]
