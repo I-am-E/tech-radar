@@ -1,5 +1,29 @@
 [
   {
+    "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+    "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
+    "date": "2026-11-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/"
+  },
+  {
+    "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+    "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+    "date": "2026-11-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/"
+  },
+  {
+    "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+    "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
+    "date": "2026-11-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/"
+  },
+  {
     "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
     "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
     "date": "2026-11-18",
@@ -454,29 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
-  },
-  {
-    "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
-    "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
-    "date": "2026-11-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/"
-  },
-  {
-    "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
-    "summary": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
-    "date": "2026-11-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/"
-  },
-  {
-    "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
-    "summary": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
-    "date": "2026-11-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/"
   }
 ]
