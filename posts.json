@@ -1,5 +1,69 @@
 [
   {
+    "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+    "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+    "date": "2026-11-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/"
+  },
+  {
+    "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+    "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+    "date": "2026-11-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
+  },
+  {
+    "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+    "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+    "date": "2026-11-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/"
+  },
+  {
+    "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+    "summary": "\"Project Suncatcher is a long-term moonshot.\"",
+    "date": "2026-11-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/"
+  },
+  {
+    "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+    "summary": "Some models fare better, but all fail in similar ways.",
+    "date": "2026-11-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/"
+  },
+  {
+    "title": "Google will launch Android app verification requirement globally in January 2027",
+    "summary": "Google says almost all developers have already gotten on board with verification.",
+    "date": "2026-11-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/"
+  },
+  {
+    "title": "Mouse fight club might explain why we like to watch violent things",
+    "summary": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+    "date": "2026-11-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/"
+  },
+  {
+    "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+    "summary": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
+    "date": "2026-11-19",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/"
+  },
+  {
     "title": "How to tell a cyberattack from a plain old outage",
     "summary": "When everything goes down, don’t assume it’s a cyberattack.",
     "date": "2026-11-19",
@@ -414,69 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/"
-  },
-  {
-    "title": "With Starship catch, SpaceX still shows it can dazzle the world",
-    "summary": "It felt like stepping into the future.",
-    "date": "2026-11-15",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
-  },
-  {
-    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state se",
-    "date": "2026-11-14",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
-  },
-  {
-    "title": "James Webb telescope finds ice older than the star it orbits",
-    "summary": "Radiation and collisions reshape the planetary building materials.",
-    "date": "2026-11-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
-  },
-  {
-    "title": "Winemakers are learning that conservation can be good for business",
-    "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
-    "date": "2026-11-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/"
-  },
-  {
-    "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-    "summary": "One way or another, the company will get some more data on Saturday.",
-    "date": "2026-11-14",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
-  },
-  {
-    "title": "FAA orders third nationwide ground stop in its history",
-    "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
-    "date": "2026-11-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
-  },
-  {
-    "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-    "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
-    "date": "2026-11-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
-  },
-  {
-    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-    "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-    "date": "2026-11-13",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
   }
 ]
