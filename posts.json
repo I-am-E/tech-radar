@@ -1,5 +1,85 @@
 [
   {
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+    "date": "2026-11-20",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+  },
+  {
+    "title": "Watching as a giant star swallowed its neighbor and exploded",
+    "summary": "A recent brightening turned out to be from a star orbiting inside another.",
+    "date": "2026-11-20",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/"
+  },
+  {
+    "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+    "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+    "date": "2026-11-20",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/"
+  },
+  {
+    "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+    "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
+    "date": "2026-11-20",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/"
+  },
+  {
+    "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+    "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
+    "date": "2026-11-20",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/"
+  },
+  {
+    "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+    "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
+    "date": "2026-11-20",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/"
+  },
+  {
+    "title": "US will soon announce root cause behind FAA nationwide ground stop",
+    "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
+    "date": "2026-11-20",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/"
+  },
+  {
+    "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+    "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+    "date": "2026-11-20",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/"
+  },
+  {
+    "title": "The most misunderstood graph in AI just got a major update",
+    "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are a",
+    "date": "2026-11-20",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+  },
+  {
+    "title": "The Download: inside the quest to make our minds immortal",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve",
+    "date": "2026-11-20",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
+  },
+  {
     "title": "Only the Seminole tribe can offer online gambling in Florida—and they're furious at DraftKings",
     "summary": "Gambling? We're just swapping contracts!",
     "date": "2026-11-20",
@@ -398,85 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
-  },
-  {
-    "title": "Three small failures combined to take down Microsoft 365",
-    "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
-    "date": "2026-11-16",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/"
-  },
-  {
-    "title": "Hyperscale data centers use 2% of US electricity",
-    "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
-    "date": "2026-11-16",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
-  },
-  {
-    "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-    "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-    "date": "2026-11-16",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/"
-  },
-  {
-    "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
-    "summary": "AT&#038;T demands Comcast give AT&#038;T profits it made from advertising cable as fiber.",
-    "date": "2026-11-16",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/"
-  },
-  {
-    "title": "Supreme Court keeps injunction against DEI grant defunding in place",
-    "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
-    "date": "2026-11-16",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/"
-  },
-  {
-    "title": "When will humans actually fly on Starship?",
-    "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
-    "date": "2026-11-16",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/"
-  },
-  {
-    "title": "Meet the new James Bond: Robert Pattinson",
-    "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
-    "date": "2026-11-16",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/"
-  },
-  {
-    "title": "US moves to cut China’s remote access to AI chips",
-    "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
-    "date": "2026-11-16",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
-  },
-  {
-    "title": "The open-source movement wants Jensen Huang back",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, an",
-    "date": "2026-11-16",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
-  },
-  {
-    "title": "Building trustworthy AI by fencing it in, not predicting it",
-    "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring inte",
-    "date": "2026-11-16",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
   }
 ]
