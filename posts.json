@@ -1,5 +1,37 @@
 [
   {
+    "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+    "summary": "FCC preempts state rules that require AT&#038;T to keep offering home phone service.",
+    "date": "2026-11-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
+  },
+  {
+    "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+    "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+    "date": "2026-11-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
+  },
+  {
+    "title": "Google rolls out new search homepage with AI chat history and no search button",
+    "summary": "Google search is making it even easier to access AI tools on the search page.",
+    "date": "2026-11-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+  },
+  {
+    "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+    "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+    "date": "2026-11-21",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+  },
+  {
     "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
     "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
     "date": "2026-11-20",
@@ -446,37 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
-  },
-  {
-    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-    "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-    "date": "2026-11-17",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/"
-  },
-  {
-    "title": "Artist brings old Space Shuttle tank back to life",
-    "summary": "\"It's definitely the largest art project I've ever worked on.\"",
-    "date": "2026-11-17",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/"
-  },
-  {
-    "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as N",
-    "date": "2026-11-17",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/"
-  },
-  {
-    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-    "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
-    "date": "2026-11-17",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
   }
 ]
