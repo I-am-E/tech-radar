@@ -1,5 +1,69 @@
 [
   {
+    "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+    "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
+    "date": "2026-11-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/"
+  },
+  {
+    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+    "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+    "date": "2026-11-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
+  },
+  {
+    "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+    "summary": "\"I would ask you to please reach out to Roscosmos directly.\"",
+    "date": "2026-11-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/"
+  },
+  {
+    "title": "Surveillance pricing uses our personal data to make us pay more",
+    "summary": "Personalized pricing can mean unfair, and even biased, prices.",
+    "date": "2026-11-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/"
+  },
+  {
+    "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+    "summary": "Amazon now uses its packages for political purposes.",
+    "date": "2026-11-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/"
+  },
+  {
+    "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
+    "summary": "A nuclear detonation in space \"could cause rapid and sudden loss or degradation of thousands of satellites.\"",
+    "date": "2026-11-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/"
+  },
+  {
+    "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
+    "summary": "\"All of you have lived stolen lives. But now you must give them back.\"",
+    "date": "2026-11-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/"
+  },
+  {
+    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient ",
+    "date": "2026-11-24",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+  },
+  {
     "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
     "summary": "Board says senior government officials confirmed Huang is \"no national security risk.\"",
     "date": "2026-11-23",
@@ -414,69 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/"
-  },
-  {
-    "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
-    "summary": "\"They are pretty confident that it's going to last a long, long, long time...\"",
-    "date": "2026-11-18",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/"
-  },
-  {
-    "title": "Grand Theft Auto VI: The Ars Technica review",
-    "summary": "Jason and Lucia's crime-heavy love story fuels a wonder of digital urban simulation.",
-    "date": "2026-11-18",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/"
-  },
-  {
-    "title": "The Download: AI learns to smell and hydropower struggles",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researche",
-    "date": "2026-11-18",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/"
-  },
-  {
-    "title": "This smell startup says its AI nose is as good as a human’s",
-    "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analys",
-    "date": "2026-11-18",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
-  },
-  {
-    "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-    "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-    "date": "2026-11-18",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
-  },
-  {
-    "title": "San Diego dumps both Flock cameras and smart streetlights",
-    "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
-    "date": "2026-11-18",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/"
-  },
-  {
-    "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
-    "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
-    "date": "2026-11-17",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/"
-  },
-  {
-    "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-    "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-    "date": "2026-11-17",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/"
   }
 ]
