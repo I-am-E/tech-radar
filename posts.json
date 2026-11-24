@@ -1,5 +1,77 @@
 [
   {
+    "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+    "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+    "date": "2026-11-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/"
+  },
+  {
+    "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+    "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+    "date": "2026-11-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/"
+  },
+  {
+    "title": "What's going on with the Riemann hypothesis?",
+    "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+    "date": "2026-11-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/"
+  },
+  {
+    "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+    "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
+    "date": "2026-11-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/"
+  },
+  {
+    "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+    "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+    "date": "2026-11-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/"
+  },
+  {
+    "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+    "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
+    "date": "2026-11-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/"
+  },
+  {
+    "title": "How brewers can protect beers from smoke-tainted hops",
+    "summary": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
+    "date": "2026-11-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/"
+  },
+  {
+    "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
+    "summary": "Kalshi’s pause in Utah draws cheers as critics bash ads and boo insider trading.",
+    "date": "2026-11-24",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/"
+  },
+  {
+    "title": "Raising the stakes for enterprise networks with AI modernization",
+    "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI a",
+    "date": "2026-11-24",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
+  },
+  {
     "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
     "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
     "date": "2026-11-24",
@@ -406,77 +478,5 @@
     "source": "MIT Technology Review",
     "category": "AI",
     "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/"
-  },
-  {
-    "title": "What a billion-dollar deal says about the US battery market",
-    "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carb",
-    "date": "2026-11-19",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/"
-  },
-  {
-    "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
-    "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
-    "date": "2026-11-19",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/"
-  },
-  {
-    "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
-    "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
-    "date": "2026-11-19",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/"
-  },
-  {
-    "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-    "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
-    "date": "2026-11-19",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/"
-  },
-  {
-    "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
-    "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
-    "date": "2026-11-18",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/"
-  },
-  {
-    "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
-    "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
-    "date": "2026-11-18",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/"
-  },
-  {
-    "title": "Best Buy sells Blu-rays online and in-store again",
-    "summary": "Popular titles like The Odyssey are being “sold &#038; shipped by Best Buy.\"",
-    "date": "2026-11-18",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/"
-  },
-  {
-    "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-    "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
-    "date": "2026-11-18",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/"
-  },
-  {
-    "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
-    "summary": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
-    "date": "2026-11-18",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/"
   }
 ]
