@@ -1,5 +1,21 @@
 [
   {
+    "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+    "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
+    "date": "2026-11-26",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/"
+  },
+  {
+    "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left h",
+    "date": "2026-11-26",
+    "source": "MIT Technology Review",
+    "category": "AI",
+    "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/"
+  },
+  {
     "title": "Draining peatlands is responsible for a few percent of our global warming",
     "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
     "date": "2026-11-26",
@@ -462,21 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/"
-  },
-  {
-    "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
-    "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
-    "date": "2026-11-20",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/"
-  },
-  {
-    "title": "The most misunderstood graph in AI just got a major update",
-    "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are a",
-    "date": "2026-11-20",
-    "source": "MIT Technology Review",
-    "category": "AI",
-    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
   }
 ]
