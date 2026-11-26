@@ -1,5 +1,21 @@
 [
   {
+    "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+    "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+    "date": "2026-11-26",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
+  },
+  {
+    "title": "Google search alternative Kagi launches Gmail rival",
+    "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+    "date": "2026-11-26",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/"
+  },
+  {
     "title": "Backblaze explains why it's sharing customer information with advertisers",
     "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
     "date": "2026-11-25",
@@ -462,21 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/"
-  },
-  {
-    "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
-    "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
-    "date": "2026-11-20",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/"
-  },
-  {
-    "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-    "summary": "Amazon now uses its shopping platform for political purposes.",
-    "date": "2026-11-20",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/"
   }
 ]
