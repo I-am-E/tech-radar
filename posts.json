@@ -1,5 +1,13 @@
 [
   {
+    "title": "The best Black Friday deals Ars could find",
+    "summary": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+    "date": "2026-11-27",
+    "source": "Ars Technica",
+    "category": "TECH",
+    "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/"
+  },
+  {
     "title": "Intel faced a choice: Give Trump 10% or face the consequences",
     "summary": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.",
     "date": "2026-11-27",
@@ -470,13 +478,5 @@
     "source": "Ars Technica",
     "category": "TECH",
     "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
-  },
-  {
-    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-    "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-    "date": "2026-11-20",
-    "source": "Ars Technica",
-    "category": "TECH",
-    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
   }
 ]
